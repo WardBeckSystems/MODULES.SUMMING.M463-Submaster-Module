@@ -21,7 +21,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Words (OCR):** 109 in 54 lines: P2 · IC A1 IC · GND · GND · LEFT OUt · c|3 LEFT OUT · (MI) · LEFT Out D/4 LEFT · OUT (M3) · RIGHT Out E|5 RGHT OUt (M2) · RIGHT OUt · F/6 RIGHT OUt (M4)
 - **Title block:** (98, 14)–(249, 84) mm: WBS WARD-BECK BYSTEMS LTD. · DRN_ · DATE MAR · CKD_ kee_ · SCALE · TOLS _
 
-Every curve, box, word and wire group: [1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW (traced).json](../PINOUTS/1972%20-%20M463%20-%20463-04-002%20-%20KELE%20CONNECTOR%20REAR%20VIEW%20(traced).json) (the CAD file: `1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW (traced).json](../PINOUTS/1972%20-%20M463%20-%20463-04-002%20-%20KELE%20CONNECTOR%20REAR%20VIEW%20%28traced%29.json) (the CAD file: `1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW (traced).dxf`).
 
 ## Full text
 

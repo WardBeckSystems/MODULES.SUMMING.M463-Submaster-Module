@@ -21,7 +21,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Closed boxes:** 30; named: 22 LM 2oin; USED ON; ISS MOD  CKD_; 230; 5 3203; GEB; 3512
 - **Words (OCR):** 40 in 33 lines: C2 · 22 · LM 2oin · 33o/ · Ph · 'eCi5_ · ~R20-52o · Cl6 ~R18-2k+ · ~C12"p · 3y11 · E1 · ~RIg
 
-Every curve, box, word and wire group: [1972 - M463 - 4-141-06-001 - ARE FACTORY SELECTED (traced).json](../SCHEMATICS/1972%20-%20M463%20-%204-141-06-001%20-%20ARE%20FACTORY%20SELECTED%20(traced).json) (the CAD file: `1972 - M463 - 4-141-06-001 - ARE FACTORY SELECTED (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M463 - 4-141-06-001 - ARE FACTORY SELECTED (traced).json](../SCHEMATICS/1972%20-%20M463%20-%204-141-06-001%20-%20ARE%20FACTORY%20SELECTED%20%28traced%29.json) (the CAD file: `1972 - M463 - 4-141-06-001 - ARE FACTORY SELECTED (traced).dxf`).
 
 ## Full text
 

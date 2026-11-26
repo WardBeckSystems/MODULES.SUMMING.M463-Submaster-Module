@@ -22,7 +22,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Words (OCR):** 225 in 119 lines: M463 · MASTER ASSIGNMENT switches · depressed; · RIGHT output signa · SW24 ang · fed · SW25: When · ing · istors to externa master · buses · summ · and/or
 - **Title block:** (223, 2)–(336, 67) mm: 1/77 · REDRAWN · ISSUE DATE · REVISION · APP · WBS WARD-BECk SYSTEMS · M463 · ENG_ · SUB-MASTER MODULE · FRONT · PANEL · APP · SCALE · 463-04-020 · ISSUE
 
-Every curve, box, word and wire group: [1972 - M463 - 463-04-020 - BETWEEN ASS IGNED MIXING BUSES LEFT AND RIGHT (traced).json](../MECHANICAL/1972%20-%20M463%20-%20463-04-020%20-%20BETWEEN%20ASS%20IGNED%20MIXING%20BUSES%20LEFT%20AND%20RIGHT%20(traced).json) (the CAD file: `1972 - M463 - 463-04-020 - BETWEEN ASS IGNED MIXING BUSES LEFT AND RIGHT (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M463 - 463-04-020 - BETWEEN ASS IGNED MIXING BUSES LEFT AND RIGHT (traced).json](../MECHANICAL/1972%20-%20M463%20-%20463-04-020%20-%20BETWEEN%20ASS%20IGNED%20MIXING%20BUSES%20LEFT%20AND%20RIGHT%20%28traced%29.json) (the CAD file: `1972 - M463 - 463-04-020 - BETWEEN ASS IGNED MIXING BUSES LEFT AND RIGHT (traced).dxf`).
 
 ## Full text
 

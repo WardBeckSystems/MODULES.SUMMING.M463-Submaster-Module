@@ -23,7 +23,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Words (OCR):** 94 in 78 lines: Swio · Sws Swbi 5w7 SwG · Sws · Sw4/ Sw3 · OTHER · Side · SiDE · CUT Pcb · Swis · Swig · FOR M463 · RIZ:
 - **Title block:** (216, 5)–(259, 49) mm: WBS · GEB · EANOV · CKDL · SCALE · Tols _
 
-Every curve, box, word and wire group: [1972 - M463 - 4-136-06-010 - PIN ESLOLICKD USDOJ ITI ABXEPKM (traced).json](../SCHEMATICS/1972%20-%20M463%20-%204-136-06-010%20-%20PIN%20ESLOLICKD%20USDOJ%20ITI%20ABXEPKM%20(traced).json) (the CAD file: `1972 - M463 - 4-136-06-010 - PIN ESLOLICKD USDOJ ITI ABXEPKM (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M463 - 4-136-06-010 - PIN ESLOLICKD USDOJ ITI ABXEPKM (traced).json](../SCHEMATICS/1972%20-%20M463%20-%204-136-06-010%20-%20PIN%20ESLOLICKD%20USDOJ%20ITI%20ABXEPKM%20%28traced%29.json) (the CAD file: `1972 - M463 - 4-136-06-010 - PIN ESLOLICKD USDOJ ITI ABXEPKM (traced).dxf`).
 
 ## Full text
 

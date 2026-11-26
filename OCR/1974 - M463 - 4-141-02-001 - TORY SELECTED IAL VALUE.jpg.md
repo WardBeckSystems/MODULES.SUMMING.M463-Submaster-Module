@@ -28,7 +28,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Title block:** (100, 16)–(251, 343) mm: CI · NOMINAL · VALUE 330pF · R9 WAS 7K5 | · ON · Previous isSuEs · R2u WAS · Not INCLUDED · LAsT COMPONENTS · C 23 04 · 026 22 · R2O 620 · C14 · R18 · 22 · 2k4 C12 · LMzOL · Rig · 47p · ci · SEe · ISk
 - **Wiring (first pass):** 25 connected wire groups from 134 runs; labelled ends: 206 mm → IOOOP, Sk, ON; 173 mm → DRN:, DATE NOV, CKD; 87 mm → LTD_, WAAD-BECK, BySTEMB; 83 mm → SUMMING, SCHEMATIC, 4-141-02-001, ISS.; 78 mm → LTD_, WAAD-BECK, BySTEMB, 4-141
 
-Every curve, box, word and wire group: [1974 - M463 - 4-141-02-001 - TORY SELECTED IAL VALUE (traced).json](../SCHEMATICS/1974%20-%20M463%20-%204-141-02-001%20-%20TORY%20SELECTED%20IAL%20VALUE%20(traced).json) (the CAD file: `1974 - M463 - 4-141-02-001 - TORY SELECTED IAL VALUE (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463 - 4-141-02-001 - TORY SELECTED IAL VALUE (traced).json](../SCHEMATICS/1974%20-%20M463%20-%204-141-02-001%20-%20TORY%20SELECTED%20IAL%20VALUE%20%28traced%29.json) (the CAD file: `1974 - M463 - 4-141-02-001 - TORY SELECTED IAL VALUE (traced).dxf`).
 
 ## Full text
 

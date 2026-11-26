@@ -22,7 +22,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Dots (junctions):** 2
 - **Words (OCR):** 293 in 156 lines: WBS · M463 · MASTER: · tches · Sw22 and · SW23 : When · depressed; · istors to external master · LEFT output signa · suming buses and/or · fed via · sunming
 
-Every curve, box, word and wire group: [1972 - M463 - 463-04-020 - WHEN DEPRESSED THIS SWITCH INSERTS THE EQUALIZER SECTION (traced).json](../MECHANICAL/1972%20-%20M463%20-%20463-04-020%20-%20WHEN%20DEPRESSED%20THIS%20SWITCH%20INSERTS%20THE%20EQUALIZER%20SECTION%20(traced).json) (the CAD file: `1972 - M463 - 463-04-020 - WHEN DEPRESSED THIS SWITCH INSERTS THE EQUALIZER SECTION (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M463 - 463-04-020 - WHEN DEPRESSED THIS SWITCH INSERTS THE EQUALIZER SECTION (traced).json](../MECHANICAL/1972%20-%20M463%20-%20463-04-020%20-%20WHEN%20DEPRESSED%20THIS%20SWITCH%20INSERTS%20THE%20EQUALIZER%20SECTION%20%28traced%29.json) (the CAD file: `1972 - M463 - 463-04-020 - WHEN DEPRESSED THIS SWITCH INSERTS THE EQUALIZER SECTION (traced).dxf`).
 
 ## Full text
 

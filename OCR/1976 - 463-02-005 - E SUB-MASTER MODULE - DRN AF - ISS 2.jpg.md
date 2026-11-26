@@ -37,7 +37,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Words (OCR):** 12 in 10 lines: SoL0 · EILC · Loti · WAAD · Beck BYBTEME LTO · WBSs · autpuT · M 463 · SLe-MASTER · 463-02.005
 - **Wiring (first pass):** 42 connected wire groups from 367 runs; labelled ends: 516 mm → LTO, BYBTEME; 11 mm → BYBTEME, LTO; 7 mm → SLe-MASTER
 
-Every curve, box, word and wire group: [1976 - 463-02-005 - E SUB-MASTER MODULE - DRN AF - ISS 2 (traced).json](../SCHEMATICS/1976%20-%20463-02-005%20-%20E%20SUB-MASTER%20MODULE%20-%20DRN%20AF%20-%20ISS%202%20(traced).json) (the CAD file: `1976 - 463-02-005 - E SUB-MASTER MODULE - DRN AF - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 463-02-005 - E SUB-MASTER MODULE - DRN AF - ISS 2 (traced).json](../SCHEMATICS/1976%20-%20463-02-005%20-%20E%20SUB-MASTER%20MODULE%20-%20DRN%20AF%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1976 - 463-02-005 - E SUB-MASTER MODULE - DRN AF - ISS 2 (traced).dxf`).
 
 ## Full text
 

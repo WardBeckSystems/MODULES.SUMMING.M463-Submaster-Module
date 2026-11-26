@@ -26,7 +26,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 137 in 120 lines: Rio · RIz · Pn3c+5 · 3301 · 93p · FADER · (INSERT) 2E3 267 · ISk · 92E2 2E4 · 716 DIRECT DuT · 8-1094 · R4c 2.2
 - **Wiring (first pass):** 145 connected wire groups from 843 runs; labelled ends: 312 mm → Rzc, IkI, Rz8, 356; 268 mm → WARD-DECK EYETEMB, WES5; 180 mm → 54a; 160 mm → 267, 2E4, R4c 2.2, Rzc; 153 mm → R4c 2.2, Amplifier, RZ7, Iki
 
-Every curve, box, word and wire group: [19xx - M463 - DOC - 463-02-020 - BYBTEMB DALHM EHNE (traced).json](../SCHEMATICS/19xx%20-%20M463%20-%20DOC%20-%20463-02-020%20-%20BYBTEMB%20DALHM%20EHNE%20(traced).json) (the CAD file: `19xx - M463 - DOC - 463-02-020 - BYBTEMB DALHM EHNE (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M463 - DOC - 463-02-020 - BYBTEMB DALHM EHNE (traced).json](../SCHEMATICS/19xx%20-%20M463%20-%20DOC%20-%20463-02-020%20-%20BYBTEMB%20DALHM%20EHNE%20%28traced%29.json) (the CAD file: `19xx - M463 - DOC - 463-02-020 - BYBTEMB DALHM EHNE (traced).dxf`).
 
 ## Full text
 

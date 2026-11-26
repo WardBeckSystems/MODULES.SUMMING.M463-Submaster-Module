@@ -26,7 +26,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Words (OCR):** 78 in 61 lines: E8 · E30 · R14'5K · R2 · 47K · ~C22-2p7 Ge Iczo · 22 · M2oin · Pu3569 · 3k · RiO_Io · k3
 - **Title block:** (101, 16)–(252, 86) mm: WBS WAAD-BECK BYBTEMB LTD_ · DRN: · DM · 4-141 · DATE DEC · 74 · CKD:7a / · SUMMING AMPLIFIER · COMPONENT LAYOUT · SCALE · TOLS _ · XX
 
-Every curve, box, word and wire group: [1974 - M463 - 4-141-06-001 - SUMMING AMPLIFIER (traced).json](../SCHEMATICS/1974%20-%20M463%20-%204-141-06-001%20-%20SUMMING%20AMPLIFIER%20(traced).json) (the CAD file: `1974 - M463 - 4-141-06-001 - SUMMING AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1974 - M463 - 4-141-06-001 - SUMMING AMPLIFIER (traced).json](../SCHEMATICS/1974%20-%20M463%20-%204-141-06-001%20-%20SUMMING%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1974 - M463 - 4-141-06-001 - SUMMING AMPLIFIER (traced).dxf`).
 
 ## Full text
 

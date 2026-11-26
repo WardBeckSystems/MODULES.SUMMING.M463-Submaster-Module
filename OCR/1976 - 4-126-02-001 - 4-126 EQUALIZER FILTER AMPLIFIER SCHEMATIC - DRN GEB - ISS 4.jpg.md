@@ -40,7 +40,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Title block:** (215, 7)–(296, 52) mm: WBS WARD-BeCK bybteMB · DRN · 2EB · DATE OcT 76 · 4-126 · CKD · Be · EQUALIZER FIlTER · SCALE · AMPliFIER SCHEMATIC · TOLS · 4-126-02-001
 - **Wiring (first pass):** 65 connected wire groups from 547 runs; labelled ends: 513 mm → 948, USED ON, Bo41/04, 365320; 258 mm → RI4, ok, R23, 28k2; 216 mm → R33, iok, Ci, 065; 209 mm → R33, iok, R39, Ok; 151 mm → cio, ooop, COMBinED, VALUE
 
-Every curve, box, word and wire group: [1976 - 4-126-02-001 - 4-126 EQUALIZER FILTER AMPLIFIER SCHEMATIC - DRN GEB - ISS 4 (traced).json](../SCHEMATICS/1976%20-%204-126-02-001%20-%204-126%20EQUALIZER%20FILTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ISS%204%20(traced).json) (the CAD file: `1976 - 4-126-02-001 - 4-126 EQUALIZER FILTER AMPLIFIER SCHEMATIC - DRN GEB - ISS 4 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 4-126-02-001 - 4-126 EQUALIZER FILTER AMPLIFIER SCHEMATIC - DRN GEB - ISS 4 (traced).json](../SCHEMATICS/1976%20-%204-126-02-001%20-%204-126%20EQUALIZER%20FILTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ISS%204%20%28traced%29.json) (the CAD file: `1976 - 4-126-02-001 - 4-126 EQUALIZER FILTER AMPLIFIER SCHEMATIC - DRN GEB - ISS 4 (traced).dxf`).
 
 ## Full text
 

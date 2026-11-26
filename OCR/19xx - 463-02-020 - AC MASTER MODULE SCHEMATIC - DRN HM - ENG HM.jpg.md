@@ -35,7 +35,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Title block:** (224, 1)–(335, 60) mm: GSUIDATE · WES · WARD-BECX 8Y3TENB · DAAM · M463 Ac · MASTER MODLLE · CKD · SCHEMATIC · SCAL · 463-02-020 · ISSUE
 - **Wiring (first pass):** 75 connected wire groups from 326 runs; labelled ends: 362 mm → R28, 390; 252 mm → 5477, 5wB, 5wS, R52; 242 mm → R45 2.2, R46 2.2, 2E7, 25+; 226 mm → 5w3, FB, 14; 214 mm → 390
 
-Every curve, box, word and wire group: [19xx - 463-02-020 - AC MASTER MODULE SCHEMATIC - DRN HM - ENG HM (traced).json](../SCHEMATICS/19xx%20-%20463-02-020%20-%20AC%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20(traced).json) (the CAD file: `19xx - 463-02-020 - AC MASTER MODULE SCHEMATIC - DRN HM - ENG HM (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 463-02-020 - AC MASTER MODULE SCHEMATIC - DRN HM - ENG HM (traced).json](../SCHEMATICS/19xx%20-%20463-02-020%20-%20AC%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20HM%20-%20ENG%20HM%20%28traced%29.json) (the CAD file: `19xx - 463-02-020 - AC MASTER MODULE SCHEMATIC - DRN HM - ENG HM (traced).dxf`).
 
 ## Full text
 

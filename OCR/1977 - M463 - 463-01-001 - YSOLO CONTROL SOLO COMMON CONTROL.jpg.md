@@ -28,7 +28,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Title block:** (96, 16)–(247, 85) mm: WBS WAAD-BECK BySTEMs LTD_ · DRN PKM · M463 · DATE 22 APR 77 · SUBMASTER MODULE · CKD_ · SCALE · XX
 - **Wiring (first pass):** 109 connected wire groups from 275 runs; labelled ends: 305 mm → PRE/Post, FOLDBACK; 115 mm → DIRECT OUT, +8 dBm, 7m1, PAN; 103 mm → RS1, RS2, REV SEND, RS3; 86 mm → WAAD-BECK, BySTEMs, M463, SUBMASTER; 84 mm → FINISH
 
-Every curve, box, word and wire group: [1977 - M463 - 463-01-001 - YSOLO CONTROL SOLO COMMON CONTROL (traced).json](../SCHEMATICS/1977%20-%20M463%20-%20463-01-001%20-%20YSOLO%20CONTROL%20SOLO%20COMMON%20CONTROL%20(traced).json) (the CAD file: `1977 - M463 - 463-01-001 - YSOLO CONTROL SOLO COMMON CONTROL (traced).dxf`).
+Every curve, box, word and wire group: [1977 - M463 - 463-01-001 - YSOLO CONTROL SOLO COMMON CONTROL (traced).json](../SCHEMATICS/1977%20-%20M463%20-%20463-01-001%20-%20YSOLO%20CONTROL%20SOLO%20COMMON%20CONTROL%20%28traced%29.json) (the CAD file: `1977 - M463 - 463-01-001 - YSOLO CONTROL SOLO COMMON CONTROL (traced).dxf`).
 
 ## Full text
 

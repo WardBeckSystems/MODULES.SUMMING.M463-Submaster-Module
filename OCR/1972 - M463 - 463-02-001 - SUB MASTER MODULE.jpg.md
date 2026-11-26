@@ -25,7 +25,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Title block:** (139, 10)–(291, 50) mm: USED ON · WBS WARD-Beck · REDRAWN · DRA · DM · M463 · FIMISH · DATENOVZ · Sub ~ MASTER · CKD: · TU · SCHEMATIC · TOLS _ · LB · 463-02-001
 - **Wiring (first pass):** 146 connected wire groups from 696 runs, 1 dotted junctions; labelled ends: 569 mm → Sw23 R133, R88, IkI, R9o; 432 mm → ~P2-12, P2-N, 8-109F 4E4, 396; 328 mm → R9o, 390, Iki; 324 mm → PRE, PST, PsT; 306 mm → Swig, Swio, Swg, Swe
 
-Every curve, box, word and wire group: [1972 - M463 - 463-02-001 - SUB MASTER MODULE (traced).json](../SCHEMATICS/1972%20-%20M463%20-%20463-02-001%20-%20SUB%20MASTER%20MODULE%20(traced).json) (the CAD file: `1972 - M463 - 463-02-001 - SUB MASTER MODULE (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M463 - 463-02-001 - SUB MASTER MODULE (traced).json](../SCHEMATICS/1972%20-%20M463%20-%20463-02-001%20-%20SUB%20MASTER%20MODULE%20%28traced%29.json) (the CAD file: `1972 - M463 - 463-02-001 - SUB MASTER MODULE (traced).dxf`).
 
 ## Full text
 

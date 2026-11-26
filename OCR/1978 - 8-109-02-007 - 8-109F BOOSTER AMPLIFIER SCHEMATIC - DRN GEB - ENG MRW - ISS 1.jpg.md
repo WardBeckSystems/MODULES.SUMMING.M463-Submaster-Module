@@ -37,7 +37,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Title block:** (226, 0)–(336, 59) mm: IssuE]DATE · REVISION · APP · WBS · WARD-BECK SYSTEMS · DRN GEB · 8 -109F · ENG MRW 4178 · BOOSTER AMPLiFIER · CKD · APP · SCHEMATIC · SCALE · ISSUE · 8-109-02-00 /
 - **Wiring (first pass):** 24 connected wire groups from 281 runs; labelled ends: 202 mm → E7; 202 mm → E3; 150 mm → R37, 4K7, 16, 22o/10; 148 mm → 15, 22o/10, E4, R3c; 107 mm → R34, MVv, 5-6, 15
 
-Every curve, box, word and wire group: [1978 - 8-109-02-007 - 8-109F BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-007%20-%208-109F%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20(traced).json) (the CAD file: `1978 - 8-109-02-007 - 8-109F BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1978 - 8-109-02-007 - 8-109F BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).json](../SCHEMATICS/1978%20-%208-109-02-007%20-%208-109F%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20GEB%20-%20ENG%20MRW%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1978 - 8-109-02-007 - 8-109F BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1 (traced).dxf`).
 
 ## Full text
 

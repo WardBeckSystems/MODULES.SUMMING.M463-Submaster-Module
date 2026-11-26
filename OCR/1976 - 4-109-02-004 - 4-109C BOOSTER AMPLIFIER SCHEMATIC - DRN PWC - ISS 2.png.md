@@ -36,7 +36,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Title block:** (313, 14)–(388, 48) mm: WBSs WAAD BeCK · 4-109C · DATE · CKD · BOOSTER AMPLIFIER · SCALE · SCHEMATIC · TOLS · 4-109-02-004
 - **Wiring (first pass):** 68 connected wire groups from 630 runs; labelled ends: 840 mm → WBSs, DATE, CKD, TOLS; 826 mm → LTD:, BOOSTER AMPLIFIER; 213 mm → C17 47p, C19, 3,9, 4460p; 211 mm → {84, R16, 1813569, Ri470; 168 mm → 33/10, {9k, 1000p, Ci
 
-Every curve, box, word and wire group: [1976 - 4-109-02-004 - 4-109C BOOSTER AMPLIFIER SCHEMATIC - DRN PWC - ISS 2 (traced).json](../SCHEMATICS/1976%20-%204-109-02-004%20-%204-109C%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20PWC%20-%20ISS%202%20(traced).json) (the CAD file: `1976 - 4-109-02-004 - 4-109C BOOSTER AMPLIFIER SCHEMATIC - DRN PWC - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 4-109-02-004 - 4-109C BOOSTER AMPLIFIER SCHEMATIC - DRN PWC - ISS 2 (traced).json](../SCHEMATICS/1976%20-%204-109-02-004%20-%204-109C%20BOOSTER%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20PWC%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1976 - 4-109-02-004 - 4-109C BOOSTER AMPLIFIER SCHEMATIC - DRN PWC - ISS 2 (traced).dxf`).
 
 ## Full text
 

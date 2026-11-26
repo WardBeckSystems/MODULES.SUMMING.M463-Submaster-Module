@@ -36,7 +36,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Title block:** (358, 23)–(432, 33) mm: WBS · WALRO-BeCk SYSTEMS
 - **Wiring (first pass):** 75 connected wire groups from 591 runs; labelled ends: 180 mm → GM4IR; 173 mm → {aean, GMesw7; 155 mm → GM4IR, GMesw7, BCLO, BIGNAL; 147 mm → 22, alin; 145 mm → BCLO
 
-Every curve, box, word and wire group: [1982 - 463-02-015 - M463R MASTER MODULE SCHEMATIC - DRN JP - ENG ELJ (traced).json](../SCHEMATICS/1982%20-%20463-02-015%20-%20M463R%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20ELJ%20(traced).json) (the CAD file: `1982 - 463-02-015 - M463R MASTER MODULE SCHEMATIC - DRN JP - ENG ELJ (traced).dxf`).
+Every curve, box, word and wire group: [1982 - 463-02-015 - M463R MASTER MODULE SCHEMATIC - DRN JP - ENG ELJ (traced).json](../SCHEMATICS/1982%20-%20463-02-015%20-%20M463R%20MASTER%20MODULE%20SCHEMATIC%20-%20DRN%20JP%20-%20ENG%20ELJ%20%28traced%29.json) (the CAD file: `1982 - 463-02-015 - M463R MASTER MODULE SCHEMATIC - DRN JP - ENG ELJ (traced).dxf`).
 
 ## Full text
 

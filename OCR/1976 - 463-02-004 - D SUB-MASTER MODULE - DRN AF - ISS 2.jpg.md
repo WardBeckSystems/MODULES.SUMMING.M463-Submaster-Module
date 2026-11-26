@@ -37,7 +37,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Title block:** (349, 7)–(428, 30) mm: WBS WAADS Beck BybtemB LTD · M 463-D · Su3 MASTER MODULE · SCALE · 463 02.004
 - **Wiring (first pass):** 131 connected wire groups from 848 runs; labelled ends: 20 mm → WBS, SCALE; 19 mm → WBS; 14 mm → COLC
 
-Every curve, box, word and wire group: [1976 - 463-02-004 - D SUB-MASTER MODULE - DRN AF - ISS 2 (traced).json](../SCHEMATICS/1976%20-%20463-02-004%20-%20D%20SUB-MASTER%20MODULE%20-%20DRN%20AF%20-%20ISS%202%20(traced).json) (the CAD file: `1976 - 463-02-004 - D SUB-MASTER MODULE - DRN AF - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 463-02-004 - D SUB-MASTER MODULE - DRN AF - ISS 2 (traced).json](../SCHEMATICS/1976%20-%20463-02-004%20-%20D%20SUB-MASTER%20MODULE%20-%20DRN%20AF%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1976 - 463-02-004 - D SUB-MASTER MODULE - DRN AF - ISS 2 (traced).dxf`).
 
 ## Full text
 

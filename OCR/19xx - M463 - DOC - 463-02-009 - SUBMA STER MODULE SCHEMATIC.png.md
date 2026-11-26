@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (351, 8)–(397, 48) mm: b3526 · ISsuDATE · WBS · cKDPA · SCALE
 - **Wiring (first pass):** 173 connected wire groups from 1,019 runs; labelled ends: 449 mm → R27, R28, 338, S7; 291 mm → R4c, 2E7, 2E4, R3S; 283 mm → R4c, AMplifier, 2E6, R3c; 265 mm → SwS ME, SwG 42, S7, 54s; 210 mm → Swz, Letlo
 
-Every curve, box, word and wire group: [19xx - M463 - DOC - 463-02-009 - SUBMA STER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M463%20-%20DOC%20-%20463-02-009%20-%20SUBMA%20STER%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M463 - DOC - 463-02-009 - SUBMA STER MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M463 - DOC - 463-02-009 - SUBMA STER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M463%20-%20DOC%20-%20463-02-009%20-%20SUBMA%20STER%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M463 - DOC - 463-02-009 - SUBMA STER MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

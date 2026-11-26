@@ -35,7 +35,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Title block:** (222, 0)–(334, 59) mm: Issu |DATE · Revisiom · WBS · WARD-BECK SY3TEMS · Drm; · 413k · M463AB · EMG. %G · SUBMASTER MODULe · CKD, · SCHEMATIC · App: · SCALE · IsSUE · 463-02-019
 - **Wiring (first pass):** 99 connected wire groups from 408 runs; labelled ends: 594 mm → R27, iki, R28, sw7; 442 mm → R+5 2.2, R46 2.2, R3s, R3i; 442 mm → R46 2.2, 2E6, R32, Sk; 246 mm → sw7, swB, SwS, Rs2; 224 mm → Sw3, FB, REFADE / 14
 
-Every curve, box, word and wire group: [19xx - 463-02-019 - M463AB SUBMASTER MODULE SCHEMATIC - DRN HM - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20463-02-019%20-%20M463AB%20SUBMASTER%20MODULE%20SCHEMATIC%20-%20DRN%20HM%20-%20ISS%201%20(traced).json) (the CAD file: `19xx - 463-02-019 - M463AB SUBMASTER MODULE SCHEMATIC - DRN HM - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [19xx - 463-02-019 - M463AB SUBMASTER MODULE SCHEMATIC - DRN HM - ISS 1 (traced).json](../SCHEMATICS/19xx%20-%20463-02-019%20-%20M463AB%20SUBMASTER%20MODULE%20SCHEMATIC%20-%20DRN%20HM%20-%20ISS%201%20%28traced%29.json) (the CAD file: `19xx - 463-02-019 - M463AB SUBMASTER MODULE SCHEMATIC - DRN HM - ISS 1 (traced).dxf`).
 
 ## Full text
 

@@ -37,7 +37,7 @@ M463K submaster module functional diagram, cropped.
 - **Title block:** (97, 0)–(246, 86) mm: WBS WAAD-BeCK BYSTEMS LTD_ · DRN. · PKM · DATE 11,hJy/ 79 · SUBMASTER · CKD · SCALE · TOLS _ EnG · XX · 463- 01-010
 - **Wiring (first pass):** 105 connected wire groups from 428 runs; labelled ends: 310 mm → PRE/ POST, PRE /POST; 208 mm → -10 dBm, LEFT; 178 mm → ON; 154 mm → DRN., DATE 11,hJy/ 79, CKD; 141 mm → WAAD-BeCK, LTD_
 
-Every curve, box, word and wire group: [1979 - 463-01-010 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN PKM - ISS 2 (traced).json](../SCHEMATICS/1979%20-%20463-01-010%20-%20SUBMASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20PKM%20-%20ISS%202%20(traced).json) (the CAD file: `1979 - 463-01-010 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN PKM - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1979 - 463-01-010 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN PKM - ISS 2 (traced).json](../SCHEMATICS/1979%20-%20463-01-010%20-%20SUBMASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20PKM%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1979 - 463-01-010 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN PKM - ISS 2 (traced).dxf`).
 
 ## Full text
 

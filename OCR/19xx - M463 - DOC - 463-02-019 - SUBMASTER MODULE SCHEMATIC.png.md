@@ -27,7 +27,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Title block:** (354, 23)–(397, 45) mm: DATE · WBS · Ha=
 - **Wiring (first pass):** 156 connected wire groups from 929 runs, 2 dotted junctions; labelled ends: 291 mm → RetS, R4s4?, R4, 42; 288 mm → R4s4?, R4, 42, R47 2'2; 240 mm → R27, IkI, 490; 189 mm → Cz0, 22/25, C22, czi; 164 mm → Bole, Sw3 R2, Swia, FBi
 
-Every curve, box, word and wire group: [19xx - M463 - DOC - 463-02-019 - SUBMASTER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M463%20-%20DOC%20-%20463-02-019%20-%20SUBMASTER%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M463 - DOC - 463-02-019 - SUBMASTER MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M463 - DOC - 463-02-019 - SUBMASTER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M463%20-%20DOC%20-%20463-02-019%20-%20SUBMASTER%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M463 - DOC - 463-02-019 - SUBMASTER MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 

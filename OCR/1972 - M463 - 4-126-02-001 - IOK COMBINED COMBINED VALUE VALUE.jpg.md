@@ -22,7 +22,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Words (OCR):** 83 in 72 lines: HGH · EREQUENGY (16kHz. 25kAz. ) · ok · RB · X6kz cio · Ri2 · 6k2 · CG · c3 · 6816 · ~A8RED · VALDE
 - **Wiring (first pass):** 38 connected wire groups from 232 runs; labelled ends: 212 mm → c3, 6816, CG, VALDE; 165 mm → RB, 6k2, 620, R7; 163 mm → cio, ~A8RED, VALUE, Ci; 150 mm → Ri2, X6kz, ~A8RED, cio; 123 mm → Ri2, X6kz, ok
 
-Every curve, box, word and wire group: [1972 - M463 - 4-126-02-001 - IOK COMBINED COMBINED VALUE VALUE (traced).json](../SCHEMATICS/1972%20-%20M463%20-%204-126-02-001%20-%20IOK%20COMBINED%20COMBINED%20VALUE%20VALUE%20(traced).json) (the CAD file: `1972 - M463 - 4-126-02-001 - IOK COMBINED COMBINED VALUE VALUE (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M463 - 4-126-02-001 - IOK COMBINED COMBINED VALUE VALUE (traced).json](../SCHEMATICS/1972%20-%20M463%20-%204-126-02-001%20-%20IOK%20COMBINED%20COMBINED%20VALUE%20VALUE%20%28traced%29.json) (the CAD file: `1972 - M463 - 4-126-02-001 - IOK COMBINED COMBINED VALUE VALUE (traced).dxf`).
 
 ## Full text
 

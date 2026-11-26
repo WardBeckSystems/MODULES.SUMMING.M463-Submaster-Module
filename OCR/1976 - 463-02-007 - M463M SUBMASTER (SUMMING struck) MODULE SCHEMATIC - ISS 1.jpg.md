@@ -34,7 +34,7 @@ Upside-down module schematic with title block at top left.
 - **Closed boxes:** 48
 - **Wiring (first pass):** 119 connected wire groups from 445 runs
 
-Every curve, box, word and wire group: [1976 - 463-02-007 - M463M SUBMASTER (SUMMING struck) MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20463-02-007%20-%20M463M%20SUBMASTER%20(SUMMING%20struck)%20MODULE%20SCHEMATIC%20-%20ISS%201%20(traced).json) (the CAD file: `1976 - 463-02-007 - M463M SUBMASTER (SUMMING struck) MODULE SCHEMATIC - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1976 - 463-02-007 - M463M SUBMASTER (SUMMING struck) MODULE SCHEMATIC - ISS 1 (traced).json](../SCHEMATICS/1976%20-%20463-02-007%20-%20M463M%20SUBMASTER%20%28SUMMING%20struck%29%20MODULE%20SCHEMATIC%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1976 - 463-02-007 - M463M SUBMASTER (SUMMING struck) MODULE SCHEMATIC - ISS 1 (traced).dxf`).
 
 ## Full text
 

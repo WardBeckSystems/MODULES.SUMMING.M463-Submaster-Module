@@ -42,7 +42,7 @@ M463 submaster module functional diagram, cropped.
 - **Title block:** (96, 16)–(247, 85) mm: WBS WAAD-BECK BySTEMs LTD_ · DRN PKM · M463 · DATE 22 APR 77 · SUBMASTER MODULE · CKD _ · Rpk · SCALE · XX
 - **Wiring (first pass):** 109 connected wire groups from 270 runs; labelled ends: 305 mm → PRE /Post, PRE/Post, FOLDBACK; 115 mm → DIRECT OUT, +8 dBm, 7m1, PAN; 103 mm → RS1, RS2, PRE /Post, REV SEND; 86 mm → WAAD-BECK, BySTEMs, M463, SUBMASTER; 80 mm → FINISH
 
-Every curve, box, word and wire group: [1977 - 463-01-001 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN PKM - ISS 2 (traced).json](../SCHEMATICS/1977%20-%20463-01-001%20-%20SUBMASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20PKM%20-%20ISS%202%20(traced).json) (the CAD file: `1977 - 463-01-001 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN PKM - ISS 2 (traced).dxf`).
+Every curve, box, word and wire group: [1977 - 463-01-001 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN PKM - ISS 2 (traced).json](../SCHEMATICS/1977%20-%20463-01-001%20-%20SUBMASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20PKM%20-%20ISS%202%20%28traced%29.json) (the CAD file: `1977 - 463-01-001 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN PKM - ISS 2 (traced).dxf`).
 
 ## Full text
 

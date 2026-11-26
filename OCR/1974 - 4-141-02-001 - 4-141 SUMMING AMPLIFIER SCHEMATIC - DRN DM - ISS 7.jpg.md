@@ -42,7 +42,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Title block:** (100, 16)–(251, 343) mm: CI · NOMINAL · VALUE 330pF · R9 WAS 7K5 | · ON · previous isSues · R2u WAS · NoT · INCLUDED_ · LAsT · COMPONENTS · C 23 04 · 026 22 · R2O 620 · C14 · R18 · 22 · 2k4 C12 · LMzOL · Rig · 47p · ci · SEe 
 - **Wiring (first pass):** 25 connected wire groups from 143 runs; labelled ends: 206 mm → IOOOP, Sk, ON; 173 mm → DRN:, DATE NOV, CKD; 87 mm → LTD_, WAAD-BECK, BySTEMB; 83 mm → SUMMInG, SCHEMATIC, 4-141-02-001, ISS.; 78 mm → LTD_, WAAD-BECK, BySTEMB, 4-141
 
-Every curve, box, word and wire group: [1974 - 4-141-02-001 - 4-141 SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 7 (traced).json](../SCHEMATICS/1974%20-%204-141-02-001%20-%204-141%20SUMMING%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%207%20(traced).json) (the CAD file: `1974 - 4-141-02-001 - 4-141 SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 7 (traced).dxf`).
+Every curve, box, word and wire group: [1974 - 4-141-02-001 - 4-141 SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 7 (traced).json](../SCHEMATICS/1974%20-%204-141-02-001%20-%204-141%20SUMMING%20AMPLIFIER%20SCHEMATIC%20-%20DRN%20DM%20-%20ISS%207%20%28traced%29.json) (the CAD file: `1974 - 4-141-02-001 - 4-141 SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 7 (traced).dxf`).
 
 ## Full text
 

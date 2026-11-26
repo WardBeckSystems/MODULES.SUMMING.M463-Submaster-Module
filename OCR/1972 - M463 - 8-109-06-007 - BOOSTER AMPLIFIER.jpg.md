@@ -22,7 +22,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Words (OCR):** 43 in 37 lines: E2 · 33/1 · 47k · R2 = · 6k2 · CRA · R6 4K? · R7JIek · z2 · LF356 · ~Clo4-p · -Cii47p
 - **Title block:** (117, 9)–(334, 111) mm: ISSUE |DATE · REVISION · APP · WBS WARD-BECK SYSTEMS · DRN. GEB · 8 ~ 109F · ENG.MRW 4/78 · BOOSTER AMPLIFIER · CKD: Rak · COMPONENT LAYOUT · APP · SCALE · ISSUE · 8-109-06-007
 
-Every curve, box, word and wire group: [1972 - M463 - 8-109-06-007 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1972%20-%20M463%20-%208-109-06-007%20-%20BOOSTER%20AMPLIFIER%20(traced).json) (the CAD file: `1972 - M463 - 8-109-06-007 - BOOSTER AMPLIFIER (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M463 - 8-109-06-007 - BOOSTER AMPLIFIER (traced).json](../SCHEMATICS/1972%20-%20M463%20-%208-109-06-007%20-%20BOOSTER%20AMPLIFIER%20%28traced%29.json) (the CAD file: `1972 - M463 - 8-109-06-007 - BOOSTER AMPLIFIER (traced).dxf`).
 
 ## Full text
 

@@ -38,7 +38,7 @@ M463LA submaster module functional diagram.
 - **Title block:** (101, 20)–(252, 90) mm: WBS WAAD-BECK bybtems LTD. · DRN VINcE · DATE 80 · SUBMASTER · CKD · FUNCTIONAL DIAGRAM · SCALE · TOLS _
 - **Wiring (first pass):** 116 connected wire groups from 291 runs; labelled ends: 275 mm → Pre, PRE/Post, PRE /Post, PRE /PosT; 236 mm → +8 dBm, LEFT; 213 mm → ON; 179 mm → DRN, DATE, CKD; 140 mm → WAAD-BECK, LTD.
 
-Every curve, box, word and wire group: [1980 - 463-01-016 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1 (traced).json](../SCHEMATICS/1980%20-%20463-01-016%20-%20SUBMASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20VINCE%20-%20ISS%201%20(traced).json) (the CAD file: `1980 - 463-01-016 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1 (traced).dxf`).
+Every curve, box, word and wire group: [1980 - 463-01-016 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1 (traced).json](../SCHEMATICS/1980%20-%20463-01-016%20-%20SUBMASTER%20MODULE%20FUNCTIONAL%20DIAGRAM%20-%20DRN%20VINCE%20-%20ISS%201%20%28traced%29.json) (the CAD file: `1980 - 463-01-016 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1 (traced).dxf`).
 
 ## Full text
 

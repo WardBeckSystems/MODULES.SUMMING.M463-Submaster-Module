@@ -23,6 +23,21 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Size:** 568,983 bytes
 - **Pages:** 1
 
+## Vectors (traced)
+
+- **Sheet:** schematic LB 463-02-, size B (assumed) 336 × 432 mm, 1557 × 2000 px traced (0.216 mm/px)
+- **Ink extent:** 0–336 mm across, 5–432 mm up
+- **Outlines:** line 862 rings, 11,048 straight (21,658 mm) / 2,050 curved (2,689 mm); text 863 rings, 6,369 straight (7,127 mm) / 2,170 curved (3,290 mm); tb 40 rings, 296 straight (355 mm) / 56 curved (70.5 mm)
+- **Centre lines:** 19,317 paths (184 closed); straight 19,370 mm, curved 566 mm; horizontal 7,288 mm, vertical 4,340 mm, diagonal 7,742 mm
+- **Circles and arcs:** 35 circles, 112 arcs; largest r 2.0 @ (275.9, 282.8), r 1.7 @ (275.7, 283.0), r 1.4 @ (284.4, 282.6), r 1.4 @ (295.7, 350.6)
+- **Closed boxes:** 47 (19 in the title block); named: LB
+- **Dots (junctions):** 1
+- **Words (OCR):** 174 in 134 lines: ~P2-12 · IRAZ · +2lv · -Zlv · P2-N · SSk · Ri3o · 120k · P2-3 · 4E3 · 467 · PI-I9
+- **Title block:** (165, 5)–(299, 53) mm: MOD CKD: · VSEDON · MatL - · WBS · bm0c REDRAWN · 552B0L · DRK: · DA · FihISH · SCALE · TOLS
+- **Wiring (first pass):** 118 connected wire groups from 700 runs, 2 dotted junctions; labelled ends: 442 mm → ~P2-12, P2-N, 4E4, BOOSTER AMP; 442 mm → ~P2-12, P2-N, P2-3, 4EG; 437 mm → Sw24 Ri3s, Swig, Swio, Swg; 436 mm → R88, IkI, R3o, 390; 380 mm → R3o, Res, 390, Iki
+
+Every curve, box, word and wire group: [1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM (traced).json](../SCHEMATICS/1974%20-%20LB%20463-02%20-%20SUB-MASTER%20SCHEMATIC%20-%20DRN%20DM%20%28traced%29.json) (the CAD file: `1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM (traced).dxf`).
+
 ## Full text
 
 ### Page 1 (OCR, spell-checked: 4 words corrected)

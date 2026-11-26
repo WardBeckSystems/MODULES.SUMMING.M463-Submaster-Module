@@ -21,7 +21,7 @@ Wiki page: [M463](../../../../PAGES/M463.md)
 - **Closed boxes:** 9; named: 24; Tip 3OB; 23; ki V23030-A202i-A1o4; 22; Tip 29B
 - **Words (OCR):** 124 in 103 lines: MOUNTED ON · SOLDER SIDE · Rios · Iswi2 · Swi3; · Swii · Re2 IEk · ~R8o42 · ~R8ie? · 00000 · R9o 220 · To swis
 
-Every curve, box, word and wire group: [1972 - M463 - 4136-06-010 - COMPONENT NQTES LEGEND CONNECTOR PIN MOUNTED (traced).json](../PINOUTS/1972%20-%20M463%20-%204136-06-010%20-%20COMPONENT%20NQTES%20LEGEND%20CONNECTOR%20PIN%20MOUNTED%20(traced).json) (the CAD file: `1972 - M463 - 4136-06-010 - COMPONENT NQTES LEGEND CONNECTOR PIN MOUNTED (traced).dxf`).
+Every curve, box, word and wire group: [1972 - M463 - 4136-06-010 - COMPONENT NQTES LEGEND CONNECTOR PIN MOUNTED (traced).json](../PINOUTS/1972%20-%20M463%20-%204136-06-010%20-%20COMPONENT%20NQTES%20LEGEND%20CONNECTOR%20PIN%20MOUNTED%20%28traced%29.json) (the CAD file: `1972 - M463 - 4136-06-010 - COMPONENT NQTES LEGEND CONNECTOR PIN MOUNTED (traced).dxf`).
 
 ## Full text
 
