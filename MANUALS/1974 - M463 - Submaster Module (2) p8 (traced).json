@@ -1,0 +1,62 @@
+{
+ "drawing": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf",
+ "page": 8,
+ "version": 1,
+ "trace": "_traces/2659e84e1befc205-p8.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "8", "pages": "56"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 311.3, 422.3],
+ "outlines": {
+  "line": {"rings": 202, "straight": {"n": 2248, "mm": 5121.5}, "curved": {"n": 512, "mm": 812.7}},
+  "text": {"rings": 332, "straight": {"n": 2779, "mm": 3017.9}, "curved": {"n": 787, "mm": 1280.6}}
+ },
+ "circles": [{"c": [205.4, 299.1], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 99,
+  "lines": [
+   {"mm": [132.6, 362.5, 209.9, 369.0], "text": "CIRCUIT DESCRIPTION"},
+   {"mm": [124.1, 349.1, 135.4, 355.6], "text": "1'4 46"},
+   {"mm": [152.6, 349.1, 210.9, 355.6], "text": "SUB\"'ASTER \"'OOUl"},
+   {"mm": [43.4, 322.6, 135.4, 329.0], "text": "Power Supply Oecoup lfno"},
+   {"mm": [43.2, 309.2, 66.5, 315.6], "text": "An ct"},
+   {"mm": [84.0, 309.2, 250.2, 315.6], "text": "power supply decoupl1ng ne work co nsis ing"},
+   {"mm": [268.6, 309.2, 275.9, 315.6], "text": "Ql"},
+   {"mm": [43.4, 302.5, 115.1, 309.0], "text": "th ro ugh Q6 pr vi de"},
+   {"mm": [132.1, 302.5, 167.1, 309.0], "text": "hi gh de gr"},
+   {"mm": [180.3, 302.5, 295.8, 309.0], "text": "of 1so la 1on be twun he 1'4 463"},
+   {"mm": [47.5, 295.6, 157.4, 302.0], "text": "nd the t25 volt SI.Ipply ra ls"},
+   {"mm": [172.5, 295.6, 290.6, 302.0], "text": "Trans is or Q5 nd Q6 sene as"},
+   {"mm": [43.4, 288.9, 295.8, 295.4], "text": "current .0n 1tors nd wi ll 11_1t he cur en flowin th rough the"},
+   {"mm": [43.6, 282.2, 53.3, 288.7], "text": "pas"},
+   {"mm": [68.0, 282.2, 283.3, 288.7], "text": "rans15tors Q3 nd Q4 1n he even that excess ve power"},
+   {"mm": [43.4, 275.5, 125.9, 282.0], "text": "supply de nds hou ld"},
+   {"mm": [144.4, 275.5, 162.4, 282.0], "text": "se as"},
+   {"mm": [180.5, 275.5, 286.9, 282.0], "text": "es ult of cOllponent failu re."},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–311 mm across, 0–422 mm up",
+  "- **Outlines:** line 202 rings, 2,248 straight (5,122 mm) / 512 curved (813 mm); text 332 rings, 2,779 straight (3,018 mm) / 787 curved (1,281 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.9 @ (205.4, 299.1)",
+  "- **Words (OCR):** 99 in 22 lines: CIRCUIT DESCRIPTION · 1'4 46 · SUB\"'ASTER \"'OOUl · Power Supply Oecoup lfno · An ct · power supply decoupl1ng ne work co nsis ing · Ql · th ro ugh Q6 pr vi de · hi gh de gr · of 1so la 1on be twun he 1'4 463 · nd the t25 volt SI.Ipply ra ls · Trans is or Q5 nd Q6 sene as"
+ ]
+}

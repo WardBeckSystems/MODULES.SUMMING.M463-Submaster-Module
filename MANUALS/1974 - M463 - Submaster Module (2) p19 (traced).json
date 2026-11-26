@@ -1,0 +1,46 @@
+{
+ "drawing": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/2659e84e1befc205-p19.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "56"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 330.5, 422.1],
+ "outlines": {
+  "line": {"rings": 53, "straight": {"n": 798, "mm": 3106.7}, "curved": {"n": 109, "mm": 158.7}},
+  "text": {"rings": 50, "straight": {"n": 435, "mm": 537.1}, "curved": {"n": 98, "mm": 151.7}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 14,
+  "lines": [
+   {"mm": [31.3, 413.0, 146.8, 419.0], "text": "WAR D-BECK SY6TEMS LTD."},
+   {"mm": [128.0, 290.0, 215.0, 295.7], "text": "8-1 09 AMPLIFIER SE RIES"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"},
+   {"mm": [168.6, 9.9, 179.4, 16.4], "text": "109"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–330 mm across, 0–422 mm up",
+  "- **Outlines:** line 53 rings, 798 straight (3,107 mm) / 109 curved (159 mm); text 50 rings, 435 straight (537 mm) / 98 curved (152 mm)",
+  "- **Words (OCR):** 14 in 7 lines: WAR D-BECK SY6TEMS LTD. · 8-1 09 AMPLIFIER SE RIES · ps · BS · tp · ht · 109"
+ ]
+}

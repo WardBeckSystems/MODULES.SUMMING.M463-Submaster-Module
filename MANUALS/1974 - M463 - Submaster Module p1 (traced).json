@@ -1,0 +1,53 @@
+{
+ "drawing": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/4e40ce41064d7b82-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "56"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.5, 8.0, 335.7, 427.1],
+ "outlines": {
+  "line": {"rings": 62, "straight": {"n": 806, "mm": 2851.1}, "curved": {"n": 101, "mm": 150.9}},
+  "text": {"rings": 141, "straight": {"n": 1805, "mm": 2363.0}, "curved": {"n": 408, "mm": 660.8}},
+  "tb": {"rings": 2, "straight": {"n": 106, "mm": 282.3}, "curved": {"n": 14, "mm": 27.1}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 11,
+  "lines": [
+   {"mm": [119.0, 408.3, 284.1, 417.9], "text": "WAAD-BECK SYSTEMS LTD_"},
+   {"mm": [49.7, 399.4, 283.0, 414.0], "text": "WBS 841 PROGRESS AVENUE, SCARBOAOUGH ONTARIO M1h2x4"},
+   {"mm": [118.3, 396.4, 171.6, 401.7], "text": "TELEX: 065-25399"},
+   {"mm": [206.8, 396.0, 283.3, 403.2], "text": "TELEPHONE: 418/438-8550"},
+   {"mm": [146.4, 244.8, 192.8, 256.6], "text": "M463"},
+   {"mm": [127.4, 232.3, 211.8, 240.5], "text": "SUBMASTER MODULE"},
+   {"mm": [76.6, 6.9, 253.0, 13.6], "text": "DESICN AND MANUFACTUAE Of PAOFESSIONAL AUDIO EQUIPMENT"}
+  ]
+ },
+ "title_block": {
+  "mm": [42.9, 390.8, 263.8, 426.7],
+  "from": "title-block words (training set)",
+  "text": ["WAAD-BECK SYSTEMS LTD_", "WBS 841 PROGRESS AVENUE, SCARBOAOUGH ONTARIO M1h2x4", "TELEX: 065-25399", "TELEPHONE: 418/438-8550"]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–336 mm across, 8–427 mm up",
+  "- **Outlines:** line 62 rings, 806 straight (2,851 mm) / 101 curved (151 mm); text 141 rings, 1,805 straight (2,363 mm) / 408 curved (661 mm); tb 2 rings, 106 straight (282 mm) / 14 curved (27.1 mm)",
+  "- **Words (OCR):** 11 in 7 lines: WAAD-BECK SYSTEMS LTD_ · WBS 841 PROGRESS AVENUE, SCARBOAOUGH ONTARIO M1h2x4 · TELEX: 065-25399 · TELEPHONE: 418/438-8550 · M463 · SUBMASTER MODULE · DESICN AND MANUFACTUAE Of PAOFESSIONAL AUDIO EQUIPMENT",
+  "- **Title block:** (43, 391)–(264, 427) mm: WAAD-BECK SYSTEMS LTD_ · WBS 841 PROGRESS AVENUE, SCARBOAOUGH ONTARIO M1h2x4 · TELEX: 065-25399 · TELEPHONE: 418/438-8550"
+ ]
+}

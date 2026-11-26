@@ -1,0 +1,43 @@
+{
+ "drawing": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
+ "page": 19,
+ "version": 1,
+ "trace": "_traces/4e40ce41064d7b82-p19.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "19", "pages": "56"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, -0.1, 330.5, 422.1],
+ "outlines": {
+  "line": {"rings": 41, "straight": {"n": 674, "mm": 2968.4}, "curved": {"n": 73, "mm": 107.9}},
+  "text": {"rings": 58, "straight": {"n": 528, "mm": 666.6}, "curved": {"n": 129, "mm": 197.2}}
+ },
+ "circles": [],
+ "boxes": [],
+ "text": {
+  "words": 6,
+  "lines": [
+   {"mm": [29.1, 413.2, 82.9, 420.2], "text": "WAAD-BECK"},
+   {"mm": [84.6, 412.8, 144.4, 421.0], "text": "Sybtems LTD_"},
+   {"mm": [126.3, 289.7, 216.3, 297.3], "text": "8-109 AMPLIFIER SERIES"},
+   {"mm": [159.8, 9.7, 181.4, 17.9], "text": "8-109"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–330 mm across, 0–422 mm up",
+  "- **Outlines:** line 41 rings, 674 straight (2,968 mm) / 73 curved (108 mm); text 58 rings, 528 straight (667 mm) / 129 curved (197 mm)",
+  "- **Words (OCR):** 6 in 4 lines: WAAD-BECK · Sybtems LTD_ · 8-109 AMPLIFIER SERIES · 8-109"
+ ]
+}

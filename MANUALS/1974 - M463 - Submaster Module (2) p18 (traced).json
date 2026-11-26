@@ -1,0 +1,81 @@
+{
+ "drawing": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf",
+ "page": 18,
+ "version": 1,
+ "trace": "_traces/2659e84e1befc205-p18.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "18", "pages": "56"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.2, 10.1, 320.6, 421.7],
+ "outlines": {
+  "line": {"rings": 230, "straight": {"n": 2365, "mm": 5341.4}, "curved": {"n": 522, "mm": 838.3}},
+  "text": {"rings": 468, "straight": {"n": 4140, "mm": 4772.5}, "curved": {"n": 1064, "mm": 1687.0}}
+ },
+ "circles": [],
+ "boxes": [
+  {"mm": [86.8, 299.9, 89.0, 302.3], "w": 2.2, "h": 2.4, "from": "ring"},
+  {"mm": [187.4, 299.9, 189.8, 302.3], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [86.8, 293.2, 89.0, 295.6], "w": 2.2, "h": 2.4, "from": "ring"},
+  {"mm": [86.6, 286.5, 89.0, 288.9], "w": 2.4, "h": 2.4, "from": "ring"},
+  {"mm": [86.8, 273.1, 89.0, 275.7], "w": 2.2, "h": 2.6, "from": "ring"},
+  {"mm": [87.2, 155.8, 89.6, 158.5], "w": 2.4, "h": 2.6, "from": "ring"},
+  {"mm": [87.7, 125.8, 89.8, 128.5], "w": 2.2, "h": 2.6, "from": "ring"}
+ ],
+ "text": {
+  "words": 41,
+  "lines": [
+   {"mm": [30.0, 411.3, 125.0, 417.5], "text": "WAAD aECR BYBTEme"},
+   {"mm": [171.0, 362.3, 188.5, 368.5], "text": "LAI"},
+   {"mm": [144.9, 347.2, 214.6, 356.8], "text": "JBSIB \"DLLE"},
+   {"mm": [122.0, 349.5, 139.5, 355.8], "text": "04g 3"},
+   {"mm": [41.2, 322.8, 115.7, 329.0], "text": "PART DESCRIPTI04"},
+   {"mm": [230.4, 320.4, 293.6, 330.0], "text": "Meg_PARI_auhbEb"},
+   {"mm": [68.9, 306.1, 95.9, 315.7], "text": "Saftch"},
+   {"mm": [175.7, 310.0, 204.2, 316.3], "text": "Schacod"},
+   {"mm": [247.6, 306.1, 272.9, 317.2], "text": "V4-O0s"},
+   {"mm": [247.6, 264.9, 274.6, 277.6], "text": "11-002"},
+   {"mm": [229.5, 246.8, 275.5, 265.7], "text": "\" #-%83"},
+   {"mm": [41.2, 256.3, 58.7, 262.5], "text": "941]"},
+   {"mm": [69.7, 229.3, 95.0, 235.5], "text": "Suiten"},
+   {"mm": [175.7, 229.3, 204.2, 235.5], "text": "Schadoy"},
+   {"mm": [248.5, 229.3, 272.2, 235.5], "text": "11-004"},
+   {"mm": [68.9, 212.7, 97.4, 228.5], "text": "{e256"},
+   {"mm": [247.6, 212.7, 274.6, 223.7], "text": "11-005"},
+   {"mm": [175.7, 215.0, 204.2, 221.3], "text": "Scnadon"},
+   {"mm": [71.2, 202.5, 95.0, 208.8], "text": "Jeleze"},
+   {"mm": [41.9, 166.9, 95.0, 182.7], "text": "533} Suiech"},
+   {"mm": [175.7, 172.5, 204.2, 178.7], "text": "Scnador"},
+   {"mm": [248.5, 174.0, 272.2, 178.8], "text": "I_W"},
+   {"mm": [70.4, 132.1, 144.0, 143.2], "text": "Integreted circuit"},
+   {"mm": [175.7, 136.0, 207.5, 142.3], "text": "Hationa"},
+   {"mm": [232.7, 136.0, 258.0, 142.3], "text": "Lhzo]n"},
+   {"mm": [70.4, 81.4, 144.0, 95.5], "text": "fetetsated circvic"},
+   {"mm": [260.4, 42.7, 306.4, 88.6], "text": "WBSps:"},
+   {"mm": [60.2, 60.0, 99.7, 66.3], "text": "recomtancs"},
+   {"mm": [148.8, 60.0, 193.0, 66.3], "text": "replacenent"},
+   {"mm": [42.7, 53.8, 136.2, 60.0], "text": "{pcciticd Manutaccutars"},
+   {"mm": [156.7, 52.2, 224.8, 58.6], "text": "Concanued 0p:mun"},
+   {"mm": [240.5, 52.2, 261.0, 58.5], "text": "pnen"},
+   {"mm": [52.2, 47.5, 87.0, 52.3], "text": "reormamce"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–321 mm across, 10–422 mm up",
+  "- **Outlines:** line 230 rings, 2,365 straight (5,341 mm) / 522 curved (838 mm); text 468 rings, 4,140 straight (4,772 mm) / 1,064 curved (1,687 mm)",
+  "- **Closed boxes:** 7",
+  "- **Words (OCR):** 41 in 33 lines: WAAD aECR BYBTEme · LAI · JBSIB \"DLLE · 04g 3 · PART DESCRIPTI04 · Meg_PARI_auhbEb · Saftch · Schacod · V4-O0s · 11-002 · \" #-%83 · 941]"
+ ]
+}

@@ -1,0 +1,77 @@
+{
+ "drawing": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf",
+ "page": 27,
+ "version": 1,
+ "trace": "_traces/2659e84e1befc205-p27.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "27", "pages": "56"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [6.1, 9.0, 307.4, 421.7],
+ "outlines": {
+  "line": {"rings": 270, "straight": {"n": 2917, "mm": 6142.9}, "curved": {"n": 651, "mm": 1019.6}},
+  "text": {"rings": 359, "straight": {"n": 2975, "mm": 3301.6}, "curved": {"n": 879, "mm": 1369.1}}
+ },
+ "circles": [
+  {"c": [97.1, 206.3], "r": 2.0, "kind": "circle", "span": 360, "from": ["outline (one edge)"]},
+  {"c": [97.1, 292.9], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}
+ ],
+ "boxes": [
+  {"mm": [172.7, 364.4, 174.9, 369.6], "w": 2.2, "h": 5.2, "from": "ring"},
+  {"mm": [120.0, 287.1, 122.2, 289.5], "w": 2.2, "h": 2.4, "from": "ring"},
+  {"mm": [188.7, 273.8, 191.1, 276.1], "w": 2.4, "h": 2.4, "from": "ring"}
+ ],
+ "text": {
+  "words": 75,
+  "lines": [
+   {"mm": [28.9, 410.6, 42.3, 415.9], "text": "WA"},
+   {"mm": [58.9, 410.6, 81.6, 415.9], "text": "SECK"},
+   {"mm": [95.6, 410.6, 124.4, 415.9], "text": "STEMS"},
+   {"mm": [128.2, 410.4, 136.0, 416.2], "text": "LT"},
+   {"mm": [144.4, 362.9, 182.7, 368.9], "text": "PARTS LIST"},
+   {"mm": [119.8, 349.8, 206.4, 355.8], "text": "8-109 AMPLIFIER SERIES"},
+   {"mm": [39.1, 316.1, 215.7, 322.1], "text": "All parts as per 8·109 except as noted below"},
+   {"mm": [39.1, 303.1, 55.9, 309.1], "text": "PART"},
+   {"mm": [67.6, 303.1, 110.3, 309.1], "text": "DESCRIPTION"},
+   {"mm": [180.5, 302.5, 191.7, 309.7], "text": "HFG"},
+   {"mm": [236.6, 302.3, 295.6, 308.3], "text": "HFG PART NUM8ER"},
+   {"mm": [39.5, 269.9, 50.5, 275.9], "text": "R15"},
+   {"mm": [67.6, 269.9, 142.5, 275.9], "text": "Reslstor ltW 51 510"},
+   {"mm": [39.1, 229.5, 214.8, 235.5], "text": "Al parts as per 8·109 except as noted be low"},
+   {"mm": [39.1, 216.5, 55.9, 222.5], "text": "PART"},
+   {"mm": [67.6, 216.5, 110.3, 222.5], "text": "DESCRIPTION"},
+   {"mm": [180.5, 215.9, 191.7, 222.6], "text": "HFG"},
+   {"mm": [236.6, 216.1, 295.1, 222.1], "text": "HFG PART NUM8ER"},
+   {"mm": [236.6, 201.9, 290.8, 208.8], "text": "2222-6 -0947B"},
+   {"mm": [39.1, 183.3, 50.1, 189.3], "text": "R15"},
+   {"mm": [67.6, 183.3, 143.6, 189.3], "text": "Resistor ItW 51 2K4"},
+   {"mm": [39.1, 69.3, 259.7, 75.3], "text": "WBS recommends the use of rep lacement parts made by the"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [39.1, 62.4, 259.7, 68.4], "text": "specifi ed manufacturers for continued optfmUIl equipment"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [39.5, 56.1, 82.7, 62.1], "text": "performance"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [{"c": [117.4, 291.6], "r": 0.8, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 6–307 mm across, 9–422 mm up",
+  "- **Outlines:** line 270 rings, 2,917 straight (6,143 mm) / 651 curved (1,020 mm); text 359 rings, 2,975 straight (3,302 mm) / 879 curved (1,369 mm)",
+  "- **Circles and arcs:** 2 circles, 0 arcs; largest r 2.0 @ (97.1, 206.3), r 1.9 @ (97.1, 292.9)",
+  "- **Closed boxes:** 3",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 75 in 28 lines: WA · SECK · STEMS · LT · PARTS LIST · 8-109 AMPLIFIER SERIES · All parts as per 8·109 except as noted below · PART · DESCRIPTION · HFG · HFG PART NUM8ER · R15"
+ ]
+}

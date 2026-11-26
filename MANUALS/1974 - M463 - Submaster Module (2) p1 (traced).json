@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf",
+ "page": 1,
+ "version": 1,
+ "trace": "_traces/2659e84e1befc205-p1.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "1", "pages": "56"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [1.5, 8.0, 335.7, 427.1],
+ "outlines": {
+  "line": {"rings": 112, "straight": {"n": 1528, "mm": 3715.7}, "curved": {"n": 272, "mm": 421.5}},
+  "text": {"rings": 60, "straight": {"n": 633, "mm": 876.8}, "curved": {"n": 153, "mm": 256.1}},
+  "tb": {"rings": 33, "straight": {"n": 560, "mm": 905.0}, "curved": {"n": 98, "mm": 160.7}}
+ },
+ "circles": [{"c": [188.9, 236.3], "r": 2.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 15,
+  "lines": [
+   {"mm": [44.5, 396.4, 282.8, 414.9], "text": "(WBS] ....,~~~ON'TAl'IIC -eeec"},
+   {"mm": [120.3, 408.3, 285.9, 415.7], "text": "WARD-BECK SYSTEMS LTD."},
+   {"mm": [272.7, 401.4, 285.6, 407.8], "text": "ax..."},
+   {"mm": [120.3, 396.8, 172.7, 400.9], "text": "'l\"I!l..J[X:0lIIl!I-1ll:I=-e"},
+   {"mm": [147.2, 244.0, 192.8, 254.3], "text": "M463"},
+   {"mm": [128.9, 232.1, 210.7, 238.6], "text": "SUBMASTER MODULE"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "title_block": {
+  "mm": [37.7, 389.7, 263.8, 424.5],
+  "from": "title-block words (training set)",
+  "text": ["(WBS] ....,~~~ON'TAl'IIC -eeec", "WARD-BECK SYSTEMS LTD.", "'l\"I!l..J[X:0lIIl!I-1ll:I=-e"]
+ },
+ "dots": [{"c": [188.9, 236.3], "r": 1.4, "lines": 0}],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 2–336 mm across, 8–427 mm up",
+  "- **Outlines:** line 112 rings, 1,528 straight (3,716 mm) / 272 curved (422 mm); text 60 rings, 633 straight (877 mm) / 153 curved (256 mm); tb 33 rings, 560 straight (905 mm) / 98 curved (161 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 2.9 @ (188.9, 236.3)",
+  "- **Dots (junctions):** 1",
+  "- **Words (OCR):** 15 in 10 lines: (WBS] ....,~~~ON'TAl'IIC -eeec · WARD-BECK SYSTEMS LTD. · ax... · 'l\"I!l..J[X:0lIIl!I-1ll:I=-e · M463 · SUBMASTER MODULE · ps · BS · tp · ht",
+  "- **Title block:** (38, 390)–(264, 424) mm: (WBS] ....,~~~ON'TAl'IIC -eeec · WARD-BECK SYSTEMS LTD. · 'l\"I!l..J[X:0lIIl!I-1ll:I=-e"
+ ]
+}

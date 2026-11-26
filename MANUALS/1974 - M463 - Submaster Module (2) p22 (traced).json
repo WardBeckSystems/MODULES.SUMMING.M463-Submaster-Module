@@ -1,0 +1,58 @@
+{
+ "drawing": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf",
+ "page": 22,
+ "version": 1,
+ "trace": "_traces/2659e84e1befc205-p22.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "22", "pages": "56"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.0, 335.5, 431.8],
+ "outlines": {
+  "line": {"rings": 329, "straight": {"n": 2635, "mm": 4942.7}, "curved": {"n": 580, "mm": 813.3}},
+  "text": {"rings": 112, "straight": {"n": 957, "mm": 1048.5}, "curved": {"n": 290, "mm": 449.2}}
+ },
+ "circles": [{"c": [237.2, 327.9], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 48,
+  "lines": [
+   {"mm": [25.7, 412.8, 43.8, 418.3], "text": "WAR"},
+   {"mm": [66.7, 412.8, 131.5, 418.3], "text": "CK SYS EMS LT"},
+   {"mm": [144.0, 363.6, 188.9, 370.5], "text": "illilllli.Q!"},
+   {"mm": [124.6, 351.5, 133.9, 357.7], "text": "-10"},
+   {"mm": [148.1, 351.5, 212.0, 357.7], "text": "AMPLIFI ER SERIES"},
+   {"mm": [43.6, 324.9, 191.7, 331.2], "text": "nve rtf ng .pl1 ff er with El ute rnilly"},
+   {"mm": [204.9, 324.9, 223.2, 331.2], "text": "ri ppe"},
+   {"mm": [244.6, 324.9, 254.1, 331.2], "text": "E6."},
+   {"mm": [39.1, 311.5, 225.8, 317.8], "text": "The outp ut of II -odels of the 8-109 ser tes fs"},
+   {"mm": [232.5, 311.5, 263.6, 317.8], "text": "Icthely"},
+   {"mm": [39.3, 304.9, 85.5, 311.1], "text": "blhnced and"},
+   {"mm": [92.2, 304.9, 126.7, 311.3], "text": "is rou gh"},
+   {"mm": [152.2, 304.9, 159.1, 311.1], "text": "It"},
+   {"mm": [184.4, 304.9, 207.9, 311.1], "text": "E4 nd"},
+   {"mm": [279.6, 65.2, 300.5, 74.3], "text": "ps"},
+   {"mm": [267.9, 53.8, 290.0, 65.3], "text": "BS"},
+   {"mm": [245.5, 31.3, 264.0, 38.5], "text": "tp"},
+   {"mm": [238.4, 24.0, 259.3, 31.2], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 329 rings, 2,635 straight (4,943 mm) / 580 curved (813 mm); text 112 rings, 957 straight (1,048 mm) / 290 curved (449 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.9 @ (237.2, 327.9)",
+  "- **Words (OCR):** 48 in 18 lines: WAR · CK SYS EMS LT · illilllli.Q! · -10 · AMPLIFI ER SERIES · nve rtf ng .pl1 ff er with El ute rnilly · ri ppe · E6. · The outp ut of II -odels of the 8-109 ser tes fs · Icthely · blhnced and · is rou gh"
+ ]
+}

@@ -1,0 +1,70 @@
+{
+ "drawing": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf",
+ "page": 33,
+ "version": 1,
+ "trace": "_traces/2659e84e1befc205-p33.svg",
+ "sheet": {
+  "number": "",
+  "title": "",
+  "dtype": "",
+  "type": "",
+  "size": "B",
+  "size_assumed": true,
+  "rotate": 0,
+  "px": [1558, 2000],
+  "mm": [336.4, 431.8],
+  "mm_per_px": 0.2159,
+  "facts": {"page": "33", "pages": "56"}
+ },
+ "units": "mm; x right, y up from the sheet's lower-left corner (as in the (traced).dxf)",
+ "bbox": [0.0, 0.1, 336.5, 432.0],
+ "outlines": {
+  "line": {"rings": 948, "straight": {"n": 12207, "mm": 21265.1}, "curved": {"n": 2790, "mm": 3889.6}},
+  "text": {"rings": 125, "straight": {"n": 1214, "mm": 1575.5}, "curved": {"n": 343, "mm": 523.3}}
+ },
+ "circles": [{"c": [324.3, 127.4], "r": 1.9, "kind": "circle", "span": 360, "from": ["outline (one edge)"]}],
+ "boxes": [],
+ "text": {
+  "words": 37,
+  "lines": [
+   {"mm": [209.6, 413.7, 219.4, 419.7], "text": "MF"},
+   {"mm": [197.3, 405.0, 236.4, 410.3], "text": "4ooHz-#;'''kHz"},
+   {"mm": [198.4, 398.1, 206.2, 403.6], "text": "R4"},
+   {"mm": [227.8, 398.1, 235.5, 403.6], "text": "R5"},
+   {"mm": [46.6, 365.3, 53.5, 370.1], "text": "J\"9"},
+   {"mm": [239.6, 347.4, 256.5, 352.9], "text": "4-IZ6"},
+   {"mm": [224.3, 341.1, 276.4, 346.2], "text": "FIL TER AMPLIFIER"},
+   {"mm": [236.4, 334.9, 260.2, 340.4], "text": "2in 2€ff"},
+   {"mm": [126.9, 331.0, 175.5, 336.5], "text": "2£3 2E2 2£1"},
+   {"mm": [193.7, 330.8, 203.8, 336.5], "text": "~ES"},
+   {"mm": [227.8, 330.1, 254.5, 334.9], "text": "21:4 2Et3"},
+   {"mm": [124.8, 303.6, 138.2, 309.3], "text": "SWf1"},
+   {"mm": [109.5, 297.3, 126.9, 302.1], "text": "SHELF'"},
+   {"mm": [132.1, 272.5, 197.3, 282.3], "text": "io----J RffS"},
+   {"mm": [327.1, 258.6, 331.8, 263.9], "text": "t4"},
+   {"mm": [295.8, 229.7, 306.8, 236.7], "text": "c24"},
+   {"mm": [322.6, 225.6, 332.5, 230.9], "text": "CfS"},
+   {"mm": [322.6, 219.4, 334.4, 224.6], "text": "'-816"},
+   {"mm": [324.1, 214.6, 334.6, 219.6], "text": "R7S"},
+   {"mm": [324.3, 208.8, 331.6, 213.6], "text": "'Sir"},
+   {"mm": [321.0, 196.3, 331.4, 202.3], "text": "R7\""},
+   {"mm": [320.8, 191.9, 329.9, 197.7], "text": "4~7"},
+   {"mm": [310.9, 182.0, 321.3, 187.3], "text": "R71"},
+   {"mm": [310.0, 173.2, 320.0, 177.7], "text": "470"},
+   {"mm": [309.6, 164.1, 320.4, 168.9], "text": "C25"},
+   {"mm": [308.5, 157.0, 323.0, 161.8], "text": "151:lqo"},
+   {"mm": [285.4, 59.2, 306.4, 68.3], "text": "ps"},
+   {"mm": [274.0, 47.7, 296.0, 59.2], "text": "BS"},
+   {"mm": [251.5, 25.3, 270.1, 32.5], "text": "tp"},
+   {"mm": [244.2, 18.1, 265.1, 25.3], "text": "ht"}
+  ]
+ },
+ "dots": [],
+ "summary": [
+  "- **Sheet:** drawing, size B (assumed) 336 × 432 mm, 1558 × 2000 px traced (0.216 mm/px)",
+  "- **Ink extent:** 0–336 mm across, 0–432 mm up",
+  "- **Outlines:** line 948 rings, 12,207 straight (21,265 mm) / 2,790 curved (3,890 mm); text 125 rings, 1,214 straight (1,576 mm) / 343 curved (523 mm)",
+  "- **Circles and arcs:** 1 circles, 0 arcs; largest r 1.9 @ (324.3, 127.4)",
+  "- **Words (OCR):** 37 in 30 lines: MF · 4ooHz-#;'''kHz · R4 · R5 · J\"9 · 4-IZ6 · FIL TER AMPLIFIER · 2in 2€ff · 2£3 2E2 2£1 · ~ES · 21:4 2Et3 · SWf1"
+ ]
+}
