@@ -1,0 +1,98 @@
+{
+ "module": "M463",
+ "source": {
+  "file": "MANUALS/1974 - M463 - Submaster Module (2).pdf",
+  "pages": [
+   4,
+   5,
+   6,
+   7,
+   8,
+   9
+  ]
+ },
+ "ocr_quality": 0.79,
+ "read": "OCR of the manual's circuit description; check against the pages",
+ "sections": [
+  {
+   "heading": "14 46 3 SUBMASTER MODULE",
+   "paragraphs": [
+    "The M463 is a combination SUBMA STER/ EQUALIZER module. designed to accept combined or mixed feeds fro ll previously assigned mix ing channel inputs. As maybe required, \" the unit processes the mixed sign 4l, equalizes it and routes it to the appropriate points within the console system.",
+    "Input and Summing Amplifier The signal originating from the exte rn e t llIixi ng network is a flfll 1e d to the edge connector Pl, pins 1 4nd A and subsequently connects tot he summing current nodes of the 4-14 1 summing an pl 1 t t e r. to facilitate a e e ute testing. 4 direct input is provided on Pl. pins 17 and U.",
+    "EQUALIZER Sect ion The out put of the 4-141 summing a mpl i f teri s routed to one of the nor lllally closed contact s of the EQUALIZER INSERT switch SIl13 t o allow bn lSsing of the equalizer. Additionally. the 4-141 output is fed to Zl. the first of four cascaded s umm1ng ampl Hiers Zl through Z4.",
+    "Zl through Z4 serve e s mix ing and isolation amplifiers. They are used to.. r x the flrim4ry input signal with a correction signal derived from the outputs of the 4-126 filter networks. resulting i n nfs 1ng or lowering the level of selected portions oft he a ud tc spectrum. Additionally, they iso late the fOte r networks from each otlie rand prevent tnt er-ac t ton between thee, resulting inaccurate and rep eatable equalizing performance. Tlie CUT/BOOST controls R21. R22 and R23 feed an f n-phe s e o r outof-phase proportional signal to the buffer amplifiers Z5, Z6 and Z8 respectively. The level of the signal fed to the buffers is dependent on the CUT/B OOST control setting with maxi lllum level occurring at either end of the potenti ometer. and a null setting at the potenti omete r mid -position. Full clockwise or full counterclockwise potent io meter settings wn l",
+    "result i n the maximum equal t ze t tun of +15 dB and -15 dB respect",
+    "ive l y.",
+    "WAR O - BeCKS YS TEMS L.T O."
+   ]
+  },
+  {
+   "heading": "\"463 SUBMASTER MOO ULE",
+   "paragraphs": [
+    "The outputs of buffer IlIplffiers 25, 26 and 28 are routed to the 4-126 printed circuit baird whf ch contains three bandpass filters corresponding touch oft he three sections of the equal her. Each bandpus filter passes only I portion oft he slgnl l delivered to ft f r o~ the buffer, with the center frequency and band width deter.fned by the FREQUENCY, -Qand PEAK/SHElF controls.",
+    "HIGH FREQUENCY equal f zat f on is cont fnu ous l y I dj us t l ble frail 1.6 t o 25 kHz and Is controlled by Rl/R 2. R21 deter _ines the aacu n t of CUT o r BOO ST. A total range frO Il -15 to +15 dB 15 provided. Vittl SWll depressed the unit w111 produce a high frequency SHELVING Characteristic. When SW l l i s released, both positive or negat h e PEAKING can be obt a1ne d. The Q control RJ is effe c the only with SWll int he PEAKING mode and covers a Q-fac tor range of 2 ~ o 10.",
+    "Ttle MID FREQUENCY e q ue t t ze t ten is adjusted by R4/R 5. covering a frequency range f roll O. 4 to 6.4 kHz. CUT/B OOST is controlled by R22. R6 adjusts the Q-hcto r. s est t tve or negathe bell shaped PEAK ING equa lfzation i s applicable i n thea i d frequency range.",
+    "The LOW FREQUENCY equalf zatlon operates s i aUa r ty t o the high frequency section. R1/R8 Idj usts the frequency range fro a 25 to 400 Hz. CUT o r 800S Tare controlled by R23, Q by R9 and SW12 dete rllines the c ho fce of efther SHElVING or PEAt:IfiI G chlra cteristics.",
+    "The three signals which lu ve the 4-126 filter are \"ce r-rect tea sfgnalse it her i n-phase or 180 degreu evr-e e-snase with the equllfz e r t n put and bl ndpas s l i.t ted as deter ained by the equalf zer sectfo n and controls etti ngs. These c orr e c tfo n s 1gna ls are then sUlilied together with the pr t a ary (Inpu t) s l gnl l by the operational uplift er s n, Z2 Ind Z4 thus for _lng the eq ul ltzed outputs fg nal.",
+    "TIlts concept o f I dd fng a corrections 1gna l together wft h the",
+    "Inc o_i ng signal t o for.. the equalized signal is directly",
+    "responsible fort he low nofse and dtsto r tio n capabilities of",
+    "this unit."
+   ]
+  },
+  {
+   "heading": "\" 46 3 SU8MASTE R MOO ULE",
+   "paragraphs": [
+    "The cOlllpound signal as generated along thee nt ire processing chaln appears a t the output of Z4. Fro. here it is routed to one oft he nor.all y open contacts oft he EQUALIZER I HSERT switch SV13.",
+    "Thus, with SV13 depressed, the equal l zed signal i s fed tot he output a.pl if1e r 8 l 09A. Ina dd i t ion, as SV13 is depressed, the LED indicator is activated.",
+    "8 l 09A Output Alll pl i ff e randI NSERT Tile 8-109 A upl ifhr raises the s 1gna l to -10 d81ll nomlnally. TIle output is acthely balanced Ind fed to the \" insert poln t \" at p1n s 22 Ind Z of module connector PI. Tilts point is usually connected to a ' normal led' set of insert jacks, with the outputs 1de connected to tile subma ste r fader.",
+    "The output o f the balanced fad er 15 returned tot he 1I0 dule o n p l ns 14 and R of PI. Thl teed fort he PREFADE REVER8ERATION SENO (RS), the PREfADE FOLDSAC K (f 8) and the PREfAOE PU811 C ADDRESS (PAl channels 15 bro u9ht out at PI, pins 20 Ind X and originates nor lllllll y fr oe the inputs tee of the fll.de r.",
+    "An uternal slate lnp ut is provided a t connector P2, pins 8 ud J. TIles hte signll l ls injected fn place of tile r e guh r signal when r ehy Kl is llctivued. Tri. pot RI42 serves to cllltbrate the shte tevet.",
+    "8-10if 800sterAliplifier Thls a. plf fie rope rates with I 9a1n of 33 dB. It recovers tile IS dB ~1 n-ha nd · loss incurred by the fll.de r llnd provides addft10 na1 9a 1n t o produce a nOlllinll level of +8 dBIl llt its",
+    "output."
+   ]
+  },
+  {
+   "heading": ",. 46 3 SU8MASTER MODULE",
+   "paragraphs": [
+    "OIRECT Output A DIRECT output from the 8-I09F alllplf f h r is provided a t connector P2. pins 12 lind N. Aside from other uses within a given console system, the DIRECT output feeds the sub llaster VU meter and serves as the take off point for monitoring. Master Outputs and PAN Control Two left and two right outputs area lso being fed by the 8-I09F output signal. They He routed vfa PAN switch SWI4 and PAN control R24 to R27, followed by four MASTER ASSIGNMENT SWITCHES SW22 t o SW2S. the master outputs are connected to tile appropriate e eec t e output terminals vfa sUlllming network resistors t o be combined wittl feeds from others ubnes te r lIIixing che nne t s. Auxiliary Outputs Ina ddit ion, a SOLO output is av ai hble via SWI6. to allow selective monitoring of tile particular submaster cn anne t. Ottler feeds originating from tile 8 -109F all pli fie r lire supplied to ttl e POSTFADE RS. FB lind PA channels.",
+    "PRE/ POST Selector Switches and Level Controls PRE/POST selection o f the RS. FB and PA channels Is facilitated by switches SWIg, SWl8 and SW4 respectively; each switch is fol l cwed by its asso cfated level control. The outputs of the level controls are fed to the summing outputs vh individual assignment switches. Following the assignment switches, tll ese outputs are fed to their appropriate mixing buses via sUlllming resistors.",
+    "Auxll iar y Control Functions DC control contacts are provided on the SOLO and PA ASsignments witches t o permit e x t erna l muting and selective control functions",
+    "a s.may be required.",
+    "1'4 46 3 SUB\"'ASTER \"'OOUl E",
+    "Power Supply Oecoup lfno An. ct h e power supply decoupl1ng network consisting o f Ql through Q6 provides. high degree of 1so lat 1on be twun the 1'4 463. nd the t25 volt SI.Ipply rails. Transistors Q5 and Q6 sene as current.0n 1tors and will 11_1t the current flowing through the pass t rans15tors Q3 and Q4 1n the event that excess t ve power supply de •• nds should arise as I result of cOllponent failure."
+   ]
+  },
+  {
+   "heading": "I- ' ·5",
+   "paragraphs": [
+    "WAR C -BECK SYSTEMS LTC.",
+    "fREQUENcy RESPONSE CHARACIERISTICS Mlt63 SUBHAS TER MOQULE",
+    "LOll FREOUENCY section Hade: SHELVING.",
+    "CUT/B OOST: i15 dB.",
+    "FREQUENCY: 25 l 400 Hz •"
+   ]
+  },
+  {
+   "heading": "· I - I",
+   "paragraphs": [
+    "7 If"
+   ]
+  },
+  {
+   "heading": "I I-- I",
+   "paragraphs": [
+    "LOW FREQUENCY sect fan"
+   ]
+  },
+  {
+   "heading": "I~ I",
+   "paragraphs": [
+    "Mode: PEAKING.",
+    "CUT/BOOST: t I5 dB.",
+    "FREQUENCY: 2Sl400Hz.",
+    "Q: 2."
+   ]
+  }
+ ]
+}
