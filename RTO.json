@@ -3,285 +3,803 @@
  "connector": "RTO-144",
  "type": "M463 - Submaster Module",
  "series": null,
- "contacts": "12 contacts (P1), 22 contacts (P2)",
- "verified": null,
- "derived": false,
- "variant_of": null,
- "pins": [
+ "connectors": [
   {
-   "pin": "1",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
-   "page": 35
-  },
-  {
-   "pin": "1",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf",
-   "page": 32
-  },
-  {
-   "pin": "3",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "4",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "5",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "6",
-   "signal": "RIGHT OUTPUTS",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "7",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "8",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - P030 - LB463-02-001 03.jpg",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "12",
-   "signal": "OUTPUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "18",
-   "signal": "CTL COM",
-   "kind": "ground",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "19",
-   "signal": "-25V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
-   "page": 32
-  },
-  {
-   "pin": "20",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - P030 - LB463-02-001 01.jpg",
-   "page": 1
-  },
-  {
-   "pin": "21",
-   "signal": "+25V",
-   "kind": "power",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
-   "page": 32
-  },
-  {
-   "pin": "22",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - P030 - LB463-02-001 01.jpg",
-   "page": 1
-  },
-  {
-   "pin": "C",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
-   "page": 1
-  },
-  {
-   "pin": "D",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "E",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
-   "page": 1
-  },
-  {
-   "pin": "F",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "F",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "N",
-   "signal": "OUTPUT",
-   "kind": "out",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
-   "page": 36
-  },
-  {
-   "pin": "T",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "V",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg",
-   "page": 1
-  },
-  {
-   "pin": "Y",
-   "signal": "",
-   "kind": "unread",
-   "pair": null,
-   "polarity": null,
-   "confidence": "low",
-   "read_from": "schematic",
-   "file": "Modules/SUMMING/M463/MANUALS/1972 - M463 - P030 - LB463-02-001 03.jpg",
-   "page": 1
+   "name": "P2",
+   "kind": "edge",
+   "contacts": 44,
+   "rows": "A-Z opposite 1-22 (LOWER)",
+   "view": "rear",
+   "part": null
   }
  ],
+ "verified": null,
+ "built_from": {
+  "pictures": [
+   "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+  ],
+  "sheet": "Engineering/RTO-144/M463/M463.rto144.json",
+  "sheet_agrees": null
+ },
+ "pins": [
+  {
+   "connector": "P2",
+   "pin": "1",
+   "ref": "1",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "2",
+   "ref": "2",
+   "also": null,
+   "same_row": null,
+   "signal": "GND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "3",
+   "ref": "3",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT 1 OUT",
+   "kind": "out",
+   "port": "LEFT 1 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "4",
+   "ref": "4",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT 2 OUT",
+   "kind": "out",
+   "port": "LEFT 2 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "5",
+   "ref": "5",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT 1 OUT",
+   "kind": "out",
+   "port": "RIGHT 1 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "6",
+   "ref": "6",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT 2 OUT",
+   "kind": "out",
+   "port": "RIGHT 2 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "7",
+   "ref": "7",
+   "also": null,
+   "same_row": null,
+   "signal": "GND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "8",
+   "ref": "8",
+   "also": null,
+   "same_row": null,
+   "signal": "SLATE IN",
+   "kind": "in",
+   "port": "SLATE IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "9",
+   "ref": "9",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "10",
+   "ref": "10",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "11",
+   "ref": "11",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "12",
+   "ref": "12",
+   "also": null,
+   "same_row": null,
+   "signal": "DIRECT OUTPUT",
+   "kind": "out",
+   "port": "DIRECT OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "13",
+   "ref": "13",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "14",
+   "ref": "14",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "15",
+   "ref": "15",
+   "also": null,
+   "same_row": null,
+   "signal": "SLATE CONTROL",
+   "kind": "control_in",
+   "port": "SLATE CONTROL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "16",
+   "ref": "16",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "17",
+   "ref": "17",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "18",
+   "ref": "18",
+   "also": null,
+   "same_row": null,
+   "signal": "CTL COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "19",
+   "ref": "19",
+   "also": null,
+   "same_row": null,
+   "signal": "-25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "20",
+   "ref": "20",
+   "also": null,
+   "same_row": null,
+   "signal": "25V COM",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "21",
+   "ref": "21",
+   "also": null,
+   "same_row": null,
+   "signal": "+25 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "22",
+   "ref": "22",
+   "also": null,
+   "same_row": null,
+   "signal": "CHASSIS",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "A",
+   "ref": "A",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "B",
+   "ref": "B",
+   "also": null,
+   "same_row": null,
+   "signal": "GND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "C",
+   "ref": "C",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT 1 OUT",
+   "kind": "out",
+   "port": "LEFT 1 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "D",
+   "ref": "D",
+   "also": null,
+   "same_row": null,
+   "signal": "LEFT 2 OUT",
+   "kind": "out",
+   "port": "LEFT 2 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "E",
+   "ref": "E",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT 1 OUT",
+   "kind": "out",
+   "port": "RIGHT 1 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "F",
+   "ref": "F",
+   "also": null,
+   "same_row": null,
+   "signal": "RIGHT 2 OUT",
+   "kind": "out",
+   "port": "RIGHT 2 OUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "H",
+   "ref": "H",
+   "also": null,
+   "same_row": null,
+   "signal": "GND",
+   "kind": "ground",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "J",
+   "ref": "J",
+   "also": null,
+   "same_row": null,
+   "signal": "SLATE IN",
+   "kind": "in",
+   "port": "SLATE IN",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "K",
+   "ref": "K",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "L",
+   "ref": "L",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "M",
+   "ref": "M",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "N",
+   "ref": "N",
+   "also": null,
+   "same_row": null,
+   "signal": "DIRECT OUTPUT",
+   "kind": "out",
+   "port": "DIRECT OUTPUT",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "P",
+   "ref": "P",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "R",
+   "ref": "R",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "S",
+   "ref": "S",
+   "also": null,
+   "same_row": null,
+   "signal": "N/C",
+   "kind": "nc",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "T",
+   "ref": "T",
+   "also": null,
+   "same_row": null,
+   "signal": "PA CONTROL",
+   "kind": "control_in",
+   "port": "PA CONTROL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "U",
+   "ref": "U",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "V",
+   "ref": "V",
+   "also": null,
+   "same_row": null,
+   "signal": "SOLO CONTROL",
+   "kind": "control_in",
+   "port": "SOLO CONTROL",
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "W",
+   "ref": "W",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "X",
+   "ref": "X",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Y",
+   "ref": "Y",
+   "also": null,
+   "same_row": null,
+   "signal": "+24 V",
+   "kind": "power",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  },
+  {
+   "connector": "P2",
+   "pin": "Z",
+   "ref": "Z",
+   "also": null,
+   "same_row": null,
+   "signal": "IC (INTERNALLY CONNECTED)",
+   "kind": "other",
+   "port": null,
+   "polarity": null,
+   "confidence": "high",
+   "read_from": [
+    "M463/PINOUTS/1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.pinout.json"
+   ],
+   "sheet": null
+  }
+ ],
+ "ports": [
+  {
+   "name": "LEFT 1 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P2-C",
+    "b": "P2-3"
+   }
+  },
+  {
+   "name": "LEFT 2 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P2-D",
+    "b": "P2-4"
+   }
+  },
+  {
+   "name": "RIGHT 1 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P2-E",
+    "b": "P2-5"
+   }
+  },
+  {
+   "name": "RIGHT 2 OUT",
+   "dir": "out",
+   "pins": {
+    "a": "P2-F",
+    "b": "P2-6"
+   }
+  },
+  {
+   "name": "SLATE IN",
+   "dir": "in",
+   "pins": {
+    "a": "P2-J",
+    "b": "P2-8"
+   }
+  },
+  {
+   "name": "DIRECT OUTPUT",
+   "dir": "out",
+   "pins": {
+    "a": "P2-N",
+    "b": "P2-12"
+   }
+  },
+  {
+   "name": "SLATE CONTROL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-15"
+   }
+  },
+  {
+   "name": "PA CONTROL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-T"
+   }
+  },
+  {
+   "name": "SOLO CONTROL",
+   "dir": "control_in",
+   "pins": {
+    "a": "P2-V"
+   }
+  }
+ ],
+ "inserts": [],
  "straps": [],
- "power": [],
- "sources": [
-  "Engineering/RTO-144/M463/M463.rto144.json",
-  "Modules/SUMMING/M463/MANUALS/1972 - M463 - P030 - LB463-02-001 01.jpg",
-  "Modules/SUMMING/M463/MANUALS/1972 - M463 - P030 - LB463-02-001 03.jpg",
-  "Modules/SUMMING/M463/MANUALS/1972 - M463 - WAAD-BECK ZABM.jpg",
-  "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module (2).pdf",
-  "Modules/SUMMING/M463/MANUALS/1974 - M463 - Submaster Module.pdf",
-  "Modules/SUMMING/M463/SCHEMATICS/1972 - M463 - 463-02-001 - SUB MASTER MODULE.jpg"
- ]
+ "conflicts": [],
+ "to_check": []
 }

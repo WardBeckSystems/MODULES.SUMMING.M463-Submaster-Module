@@ -1,0 +1,33 @@
+{
+  "schema": "wbs-pinout/1",
+  "picture": "1972 - M463 - 4136-06-010 - COMPONENT NQTES LEGEND CONNECTOR PIN MOUNTED.jpg",
+  "module": "M463",
+  "applies_to": [],
+  "pinout": false,
+  "drawing": {
+    "number": null,
+    "title": "COMPONENT S(IDE) layout, partial",
+    "date": null,
+    "issue": null,
+    "drawn": null
+  },
+  "connectors": [
+    {
+      "name": "P2",
+      "kind": "edge",
+      "contacts": null,
+      "rows": "Z ... A (letters only at the ends)",
+      "view": "component side",
+      "part": null
+    }
+  ],
+  "pins": [],
+  "ports": [],
+  "inserts": [],
+  "straps": [],
+  "unread": [
+    "Title block is outside the picture; drawing number, model and date are not visible (the file name's 4136-06-010 is not on the visible part)."
+  ],
+  "confidence": "high",
+  "notes": "Not a pinout: left half of a PCB component-side assembly drawing (relay K1 V23030-A2021-A104, TIP30B/TIP29B on heat sink A460-03-014, switches SW11-SW14 and SW22-SW25, Z1-Z4, E-numbered stand-off pins). Notes: 1. Legend: circle = connector pin mounted on solder side; circled pin = stand off (No 461-03-015) mounted on pin; oval = pad provided for wiring. 2. Use PCB No 4-136. 3. All ICs LM201 N. Edge connector P2 is outlined with only its end letters Z and A marked; no contact assignments."
+}

@@ -173,34 +173,54 @@ Not on Google Drive yet: `M463 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
-12 contacts (P1), 22 contacts (P2). Every contact, with where it was read: [`RTO.json`](RTO.json).
+Read from 1 pinout picture (each its own `.pinout.json` beside it). Every contact, with where it was read: [`RTO.json`](RTO.json). How a picture becomes this table: [the pinout decision tree](https://github.com/WardBeckSystems/WBSps.ca/blob/main/2026/Engineering/PINOUTS.md).
 
-| Pin | Signal | Kind | Pair | Confidence |
+| Pin | Signal | Kind | Port | Confidence |
 |---|---|---|---|---|
-| 1 |  | unread |  | low |
-| 1 |  | unread |  | low |
-| 3 |  | unread |  | low |
-| 4 |  | unread |  | low |
-| 5 |  | unread |  | low |
-| 6 | RIGHT OUTPUTS | out |  | low |
-| 7 |  | unread |  | low |
-| 8 |  | unread |  | low |
-| 12 |  | unread |  | low |
-| 12 | OUTPUT | out |  | low |
-| 18 | CTL COM | ground |  | low |
-| 19 | -25V | power |  | low |
-| 20 |  | unread |  | low |
-| 21 | +25V | power |  | low |
-| 22 |  | unread |  | low |
-| C |  | unread |  | low |
-| D |  | unread |  | low |
-| E |  | unread |  | low |
-| F |  | unread |  | low |
-| F |  | unread |  | low |
-| N | OUTPUT | out |  | low |
-| T |  | unread |  | low |
-| V |  | unread |  | low |
-| Y |  | unread |  | low |
+| 1 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 2 | GND | ground |  | high |
+| 3 | LEFT 1 OUT | out | LEFT 1 OUT | high |
+| 4 | LEFT 2 OUT | out | LEFT 2 OUT | high |
+| 5 | RIGHT 1 OUT | out | RIGHT 1 OUT | high |
+| 6 | RIGHT 2 OUT | out | RIGHT 2 OUT | high |
+| 7 | GND | ground |  | high |
+| 8 | SLATE IN | in | SLATE IN | high |
+| 9 | N/C | nc |  | high |
+| 10 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 11 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 12 | DIRECT OUTPUT | out | DIRECT OUTPUT | high |
+| 13 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 14 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 15 | SLATE CONTROL | control_in | SLATE CONTROL | high |
+| 16 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 17 | IC (INTERNALLY CONNECTED) | other |  | high |
+| 18 | CTL COM | ground |  | high |
+| 19 | -25 V | power |  | high |
+| 20 | 25V COM | ground |  | high |
+| 21 | +25 V | power |  | high |
+| 22 | CHASSIS | ground |  | high |
+| A | IC (INTERNALLY CONNECTED) | other |  | high |
+| B | GND | ground |  | high |
+| C | LEFT 1 OUT | out | LEFT 1 OUT | high |
+| D | LEFT 2 OUT | out | LEFT 2 OUT | high |
+| E | RIGHT 1 OUT | out | RIGHT 1 OUT | high |
+| F | RIGHT 2 OUT | out | RIGHT 2 OUT | high |
+| H | GND | ground |  | high |
+| J | SLATE IN | in | SLATE IN | high |
+| K | N/C | nc |  | high |
+| L | IC (INTERNALLY CONNECTED) | other |  | high |
+| M | IC (INTERNALLY CONNECTED) | other |  | high |
+| N | DIRECT OUTPUT | out | DIRECT OUTPUT | high |
+| P | IC (INTERNALLY CONNECTED) | other |  | high |
+| R | IC (INTERNALLY CONNECTED) | other |  | high |
+| S | N/C | nc |  | high |
+| T | PA CONTROL | control_in | PA CONTROL | high |
+| U | IC (INTERNALLY CONNECTED) | other |  | high |
+| V | SOLO CONTROL | control_in | SOLO CONTROL | high |
+| W | IC (INTERNALLY CONNECTED) | other |  | high |
+| X | IC (INTERNALLY CONNECTED) | other |  | high |
+| Y | +24 V | power |  | high |
+| Z | IC (INTERNALLY CONNECTED) | other |  | high |
 
 ## Manuals and documents
 
