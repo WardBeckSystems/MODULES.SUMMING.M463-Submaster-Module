@@ -1,5 +1,5 @@
 # 1976 - 463-04-008 - M463M SUB MASTER MODULE ASSEMBLY (LAYOUT) - DRN MING - ISS 1.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1976 (title block date)

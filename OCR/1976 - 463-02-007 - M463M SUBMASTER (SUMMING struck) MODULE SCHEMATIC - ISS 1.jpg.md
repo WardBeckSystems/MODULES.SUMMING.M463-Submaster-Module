@@ -1,5 +1,5 @@
 # 1976 - 463-02-007 - M463M SUBMASTER (SUMMING struck) MODULE SCHEMATIC - ISS 1.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1976 (title block date)

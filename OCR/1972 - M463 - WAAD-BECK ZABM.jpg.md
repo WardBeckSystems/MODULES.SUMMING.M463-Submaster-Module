@@ -1,5 +1,5 @@
 # 1972 - M463 - WAAD-BECK ZABM.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1972 (module estimate (labelled))

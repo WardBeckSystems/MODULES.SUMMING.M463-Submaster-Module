@@ -1,5 +1,5 @@
 # 1980 - 463-01-016 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1980 (title block date)

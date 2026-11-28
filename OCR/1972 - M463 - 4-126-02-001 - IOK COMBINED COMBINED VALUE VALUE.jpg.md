@@ -1,5 +1,5 @@
 # 1972 - M463 - 4-126-02-001 - IOK COMBINED COMBINED VALUE VALUE.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1972 (module estimate (labelled))

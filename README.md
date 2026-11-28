@@ -1,6 +1,6 @@
 # M463 Submaster Module · Summing
 
-Ward-Beck Systems M463, 1972|5. Wiki page: [M463 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M463.html)
+Ward-Beck Systems M463, 1972|5. Wiki page: [M463 on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.SUMMING.M463-Submaster-Module/)
 
 | Folder | What is in it | Files |
 |---|---|---|

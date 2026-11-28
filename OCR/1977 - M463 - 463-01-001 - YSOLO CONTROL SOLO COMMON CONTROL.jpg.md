@@ -1,5 +1,5 @@
 # 1977 - M463 - 463-01-001 - YSOLO CONTROL SOLO COMMON CONTROL.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1977 (found in this file: "DATE 22 APR 77")

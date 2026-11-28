@@ -1,5 +1,5 @@
 # 1972 - M463 - 8-109-06-007 - BOOSTER AMPLIFIER.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1972 (module estimate (labelled))

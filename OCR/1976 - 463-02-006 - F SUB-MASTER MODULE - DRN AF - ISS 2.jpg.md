@@ -1,5 +1,5 @@
 # 1976 - 463-02-006 - F SUB-MASTER MODULE - DRN AF - ISS 2.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1976 (title block date)

@@ -1,5 +1,5 @@
 # 1978 - 463-06-001 - M463J SUBMASTER MODULE COMPONENT LAYOUT - DRN GEB - ENG GEB - ISS 1.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1978 (title block date)

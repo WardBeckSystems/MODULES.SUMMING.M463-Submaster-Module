@@ -1,5 +1,5 @@
 # 19xx - 463-02-020 - AC MASTER MODULE SCHEMATIC - DRN HM - ENG HM.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** unknown (title block (read by eye))

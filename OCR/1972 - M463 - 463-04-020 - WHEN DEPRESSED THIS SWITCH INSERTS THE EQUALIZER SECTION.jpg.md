@@ -1,5 +1,5 @@
 # 1972 - M463 - 463-04-020 - WHEN DEPRESSED THIS SWITCH INSERTS THE EQUALIZER SECTION.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1972 (module estimate (labelled))

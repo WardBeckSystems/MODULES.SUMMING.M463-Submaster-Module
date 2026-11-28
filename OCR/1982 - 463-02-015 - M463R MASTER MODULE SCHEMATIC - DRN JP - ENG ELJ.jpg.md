@@ -1,5 +1,5 @@
 # 1982 - 463-02-015 - M463R MASTER MODULE SCHEMATIC - DRN JP - ENG ELJ.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1982 (title block date)

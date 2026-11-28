@@ -1,5 +1,5 @@
 # 1974 - 4-126-06-001 - 4-126 EQUALIZER FILTER COMPONENT ASSEMBLY - DRN DM - ISS 2.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1974 (title block date)

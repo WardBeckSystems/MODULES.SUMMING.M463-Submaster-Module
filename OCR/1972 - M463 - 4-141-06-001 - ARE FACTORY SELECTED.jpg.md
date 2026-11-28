@@ -1,5 +1,5 @@
 # 1972 - M463 - 4-141-06-001 - ARE FACTORY SELECTED.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1972 (module estimate (labelled))

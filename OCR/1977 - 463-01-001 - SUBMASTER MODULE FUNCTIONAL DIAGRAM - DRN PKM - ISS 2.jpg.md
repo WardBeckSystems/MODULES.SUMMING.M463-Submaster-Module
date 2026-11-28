@@ -1,5 +1,5 @@
 # 1977 - 463-01-001 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN PKM - ISS 2.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1977 (title block date)

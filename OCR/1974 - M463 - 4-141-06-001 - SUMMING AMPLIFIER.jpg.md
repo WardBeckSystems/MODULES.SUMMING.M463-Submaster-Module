@@ -1,5 +1,5 @@
 # 1974 - M463 - 4-141-06-001 - SUMMING AMPLIFIER.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1974 (found in this file: "DEC 74")

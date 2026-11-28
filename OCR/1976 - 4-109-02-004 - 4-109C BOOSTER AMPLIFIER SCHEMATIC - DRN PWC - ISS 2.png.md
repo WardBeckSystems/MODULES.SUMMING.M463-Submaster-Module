@@ -1,5 +1,5 @@
 # 1976 - 4-109-02-004 - 4-109C BOOSTER AMPLIFIER SCHEMATIC - DRN PWC - ISS 2.png
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1976 (title block date)

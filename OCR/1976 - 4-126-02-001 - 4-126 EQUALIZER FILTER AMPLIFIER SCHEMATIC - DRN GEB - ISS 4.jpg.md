@@ -1,5 +1,5 @@
 # 1976 - 4-126-02-001 - 4-126 EQUALIZER FILTER AMPLIFIER SCHEMATIC - DRN GEB - ISS 4.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1976 (title block date)

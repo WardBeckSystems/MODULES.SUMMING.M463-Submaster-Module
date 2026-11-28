@@ -1,5 +1,5 @@
 # 1974 - M463 - 4-141-02-001 - TORY SELECTED IAL VALUE.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1974 (found in this file: "DATE NOV 74")

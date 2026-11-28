@@ -1,5 +1,5 @@
 # 19xx - 463-02-019 - M463AB SUBMASTER MODULE SCHEMATIC - DRN HM - ISS 1.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** unknown (title block (read by eye))

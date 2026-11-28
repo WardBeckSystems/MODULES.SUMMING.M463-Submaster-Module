@@ -1,5 +1,5 @@
 # 1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg
-Wiki page: [M463](../../../../PAGES/M463.md)
+Wiki page: [M463](../)
 
 
 - **Year:** 1974 (title block date)
