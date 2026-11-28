@@ -4,13 +4,12 @@ Ward-Beck Systems M463, 1972|5. Wiki page: [M463 on WBSps.ca](https://wardbecksy
 
 | Folder | What is in it | Files |
 |---|---|---|
-| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 200 |
-| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 18 |
-| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 16 |
-| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 371 |
-| [PHOTOS/](PHOTOS/) | photographs of the module | 3 |
-| [SOFTWARE/](SOFTWARE/) | program listings, firmware, the plugin | 1 |
-| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 46 |
+| [SCHEMATICS/](SCHEMATICS/) | electrical drawings: schematics, functional diagrams, component layouts, wiring | 199 |
+| [MECHANICAL/](MECHANICAL/) | front panels, cover plates, metalwork, assemblies; the front panel as vectors | 19 |
+| [PINOUTS/](PINOUTS/) | the RTO-144 connector: connection sheets, connector layouts, rear views | 15 |
+| [MANUALS/](MANUALS/) | manuals, manual pages, price lists, brochures, documents | 370 |
+| [PHOTOS/](PHOTOS/) | photographs of the module | 2 |
+| [KICAD/](KICAD/) | KiCad schematics traced from the drawings, the symbol, PCB projects | 45 |
 | [OCR/](OCR/) | the note of every file: date, origin, title block, OCR text | 90 |
 
 <!-- module data: tools/module_specs.py, tools/forum_quotes.py -->
@@ -139,8 +138,6 @@ _Mechanical drawings: front panels, cover plates, metalwork and hardware (-03- d
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKVjRyVjctOVNkZUk/view?resourcekey=0-UhSr-4Q1CevU8wg9QW5Dng" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKVjRyVjctOVNkZUk&resourcekey=0-UhSr-4Q1CevU8wg9QW5Dng" width="240" alt="1972 - M463 - 463-04-002 - OUTPUT AMP UPPER LEGEND.jpg"></a><br><sub>1972|5 · 463-04-002 - OUTPUT AMP UPPER LEGEND · <a href="MECHANICAL/1972%20-%20M463%20-%20463-04-002%20-%20OUTPUT%20AMP%20UPPER%20LEGEND%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKaE5qaUtTbE1YOWM/view?resourcekey=0-BoEGZfVrticX7CdXIuh7cw" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKaE5qaUtTbE1YOWM&resourcekey=0-BoEGZfVrticX7CdXIuh7cw" width="240" alt="1972 - M463 - 463-04-020 - BETWEEN ASS IGNED MIXING BUSES LEFT AND RIGHT.jpg"></a><br><sub>1972|5 · 463-04-020 - BETWEEN ASS IGNED MIXING BUSES LEFT AND RIGHT · <a href="MECHANICAL/1972%20-%20M463%20-%20463-04-020%20-%20BETWEEN%20ASS%20IGNED%20MIXING%20BUSES%20LEFT%20AND%20RIGHT%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKQnI5MDF3UkFZaTA/view?resourcekey=0-IlcN8WLcBK-d1DNyAvWQiA" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKQnI5MDF3UkFZaTA&resourcekey=0-IlcN8WLcBK-d1DNyAvWQiA" width="240" alt="1972 - M463 - 463-04-020 - WHEN DEPRESSED THIS SWITCH INSERTS THE EQUALIZER SECTION.jpg"></a><br><sub>1972|5 · 463-04-020 - WHEN DEPRESSED THIS SWITCH INSERTS THE EQUALIZER SECTION · <a href="MECHANICAL/1972%20-%20M463%20-%20463-04-020%20-%20WHEN%20DEPRESSED%20THIS%20SWITCH%20INSERTS%20THE%20EQUALIZER%20SECTION%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1976 - 463-04-008 - M463M SUB MASTER MODULE ASSEMBLY (LAYOUT) - DRN MING - ISS 1.jpg`
-
 ## 3-D model
 
 [`MECHANICAL/M463.stl`](MECHANICAL/M463.stl) (GitHub turns it in 3-D) · [view, change and generate it on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/2026/stl.html?m=M463)
@@ -166,8 +163,6 @@ _Electrical drawings: schematics (-02-), functional diagrams (-01-), component l
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1h7IdVAqUHQydV3Bry686m78wOFuVaYCj/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1h7IdVAqUHQydV3Bry686m78wOFuVaYCj" width="240" alt="19xx - M463 - DOC - 463-02-009 - SUBMA STER MODULE SCHEMATIC.png"></a><br><sub>19xx - M463 - DOC - 463-02-009 - SUBMA STER MODULE SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M463%20-%20DOC%20-%20463-02-009%20-%20SUBMA%20STER%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1MUl9-qDpXCLWqU4xNPW5l8djmxaOBC-B/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1MUl9-qDpXCLWqU4xNPW5l8djmxaOBC-B" width="240" alt="19xx - M463 - DOC - 463-02-019 - SUBMASTER MODULE SCHEMATIC.png"></a><br><sub>19xx - M463 - DOC - 463-02-019 - SUBMASTER MODULE SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M463%20-%20DOC%20-%20463-02-019%20-%20SUBMASTER%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/1in_ZcpJtmlhQJBvkPt-m8X824wVc1EH3/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=1in_ZcpJtmlhQJBvkPt-m8X824wVc1EH3" width="240" alt="19xx - M463 - DOC - 463-02-020 - BYBTEMB DALHM EHNE.png"></a><br><sub>19xx - M463 - DOC - 463-02-020 - BYBTEMB DALHM EHNE · <a href="SCHEMATICS/19xx%20-%20M463%20-%20DOC%20-%20463-02-020%20-%20BYBTEMB%20DALHM%20EHNE%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
-Not on Google Drive yet: `1974 - 4-126-06-001 - 4-126 EQUALIZER FILTER COMPONENT ASSEMBLY - DRN DM - ISS 2.jpg`, `1974 - 4-141-02-001 - 4-141 SUMMING AMPLIFIER SCHEMATIC - DRN DM - ISS 7.jpg`, `1974 - LB 463-02 - SUB-MASTER SCHEMATIC - DRN DM.jpg`, `1976 - 4-109-02-004 - 4-109C BOOSTER AMPLIFIER SCHEMATIC - DRN PWC - ISS 2.png`, `1976 - 4-126-02-001 - 4-126 EQUALIZER FILTER AMPLIFIER SCHEMATIC - DRN GEB - ISS 4.jpg`, `1976 - 463-02-007 - M463M SUBMASTER (SUMMING struck) MODULE SCHEMATIC - ISS 1.jpg`, `1977 - 463-01-001 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN PKM - ISS 2.jpg`, `1977 - 463-01-003 - M463B SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN PKM - ISS 2.jpg`, `1978 - 463-06-001 - M463J SUBMASTER MODULE COMPONENT LAYOUT - DRN GEB - ENG GEB - ISS 1.jpg`, `1978 - 8-109-02-002 - 8-109A OUTPUT AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg`, `1978 - 8-109-02-007 - 8-109F BOOSTER AMPLIFIER SCHEMATIC - DRN GEB - ENG MRW - ISS 1.jpg`, `1979 - 463-01-010 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN PKM - ISS 2.jpg`, `1980 - 463-01-011 - M463L SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1.jpg`, `1980 - 463-01-016 - SUBMASTER MODULE FUNCTIONAL DIAGRAM - DRN VINCE - ISS 1.jpg`, `19xx - 4-141-02-001.jpg`, `19xx - 463-01-001.jpg`, `19xx - 463-02-019 - M463AB SUBMASTER MODULE SCHEMATIC - DRN HM - ISS 1.jpg`, `19xx - 463-02-020 - AC MASTER MODULE SCHEMATIC - DRN HM - ENG HM.jpg`, `19xx - 463-06-001.jpg`, `19xx - 463-06-028 - M463AC MASTER MODULE COMPONENT LAYOUT - DRN HM - ISS 1.jpg`, `19xx - 8-109-02-002.jpg`, `19xx - 8-109-02-007.jpg`
-
 ## Pinouts
 
 _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and rear views, strapping), and the pinout / connections drawings made from them. The module root `RTO.json` lists every contact._
@@ -175,8 +170,6 @@ _Pinouts: the RTO-144 edge connector (connection sheets, connector layouts and r
 <table>
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKLWhBQW1NTVBXVjQ/view?resourcekey=0-_ZmADunQ90o7-Py5fxQx1A" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKLWhBQW1NTVBXVjQ&resourcekey=0-_ZmADunQ90o7-Py5fxQx1A" width="240" alt="1972 - M463 - 4136-06-010 - COMPONENT NQTES LEGEND CONNECTOR PIN MOUNTED.jpg"></a><br><sub>1972|5 · 4136-06-010 - COMPONENT NQTES LEGEND CONNECTOR PIN MOUNTED · <a href="PINOUTS/1972%20-%20M463%20-%204136-06-010%20-%20COMPONENT%20NQTES%20LEGEND%20CONNECTOR%20PIN%20MOUNTED%20(EXTRACTED).svg">vectors</a></sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKeXFxWDFZRnNOdGs/view?resourcekey=0-qzgJB5RaqLqZtXkGx3AEHQ" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKeXFxWDFZRnNOdGs&resourcekey=0-qzgJB5RaqLqZtXkGx3AEHQ" width="240" alt="1972 - M463 - 463-04-002 - KELE CONNECTOR REAR VIEW.jpg"></a><br><sub>1972|5 · 463-04-002 - KELE CONNECTOR REAR VIEW · <a href="PINOUTS/1972%20-%20M463%20-%20463-04-002%20-%20KELE%20CONNECTOR%20REAR%20VIEW%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
-
-Not on Google Drive yet: `M463 - RTO-144 Connections.pdf`
 
 ## RTO-144 pinout
 
@@ -247,8 +240,6 @@ _Manuals and manual pages, price lists, RTO-144 connection sheets, brochures, ad
 <tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKNE9iaEJNRXVKblE/view?resourcekey=0-d9nGvmuU7Daj8TH7ROiYAg" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKNE9iaEJNRXVKblE&resourcekey=0-d9nGvmuU7Daj8TH7ROiYAg" width="240" alt="1974 - M463 - Submaster Module (2).pdf"></a><br><sub>1974|7 · Submaster Module (2)</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKMGNaR0s0LW52eTQ/view?resourcekey=0-K3imCJiiDWBN1h1hkaf65g" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKMGNaR0s0LW52eTQ&resourcekey=0-K3imCJiiDWBN1h1hkaf65g" width="240" alt="1974 - M463 - Submaster Module.pdf"></a><br><sub>1974|7 · Submaster Module</sub></td><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/0B0yR0b5T78SKT21zQXk2OW9CZWs/view?resourcekey=0-18IZEHg89Oth7bXIcbFt-Q" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=0B0yR0b5T78SKT21zQXk2OW9CZWs&resourcekey=0-18IZEHg89Oth7bXIcbFt-Q" width="240" alt="1979 - M463 - P002.jpg"></a><br><sub>1979|12 · P002</sub></td></tr>
 </table>
 
-Not on Google Drive yet: `M463 - P030 - LB463-02-001 04.jpg`
-
 ## KiCad
 
 _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the module symbol (`.kicad_sym`) and its PCB projects. Traced schematics are the line work only: redraw with symbols over them._
@@ -298,7 +289,6 @@ _KiCad: a schematic (`.kicad_sch`) traced from each electrical drawing, the modu
 - [19xx - M463 - DOC - 463-02-019 - SUBMASTER MODULE SCHEMATIC.kicad_sch](KICAD/19xx%20-%20M463%20-%20DOC%20-%20463-02-019%20-%20SUBMASTER%20MODULE%20SCHEMATIC.kicad_sch)
 - [19xx - M463 - DOC - 463-02-020 - BYBTEMB DALHM EHNE.kicad_sch](KICAD/19xx%20-%20M463%20-%20DOC%20-%20463-02-020%20-%20BYBTEMB%20DALHM%20EHNE.kicad_sch)
 - [M463.kicad_sym](KICAD/M463.kicad_sym)
-- [index.html](KICAD/index.html)
 
 ---
 Archive: Anthony Peter Kuzub · [WBSps.ca](https://WBSps.ca) · [WBSps.Kuzub.com](https://WBSps.Kuzub.com)
